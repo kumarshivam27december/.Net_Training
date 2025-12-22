@@ -1,0 +1,14 @@
+C:\Users\91995\Desktop\net\CalculatorBasic\bin\Debug\net10.0\CalculatorBasic.exe
+C:\Users\91995\Desktop\net\CalculatorBasic\bin\Debug\net10.0\CalculatorBasic.deps.json
+C:\Users\91995\Desktop\net\CalculatorBasic\bin\Debug\net10.0\CalculatorBasic.runtimeconfig.json
+C:\Users\91995\Desktop\net\CalculatorBasic\bin\Debug\net10.0\CalculatorBasic.dll
+C:\Users\91995\Desktop\net\CalculatorBasic\bin\Debug\net10.0\CalculatorBasic.pdb
+C:\Users\91995\Desktop\net\CalculatorBasic\obj\Debug\net10.0\CalculatorBasic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91995\Desktop\net\CalculatorBasic\obj\Debug\net10.0\CalculatorBasic.AssemblyInfoInputs.cache
+C:\Users\91995\Desktop\net\CalculatorBasic\obj\Debug\net10.0\CalculatorBasic.AssemblyInfo.cs
+C:\Users\91995\Desktop\net\CalculatorBasic\obj\Debug\net10.0\CalculatorBasic.csproj.CoreCompileInputs.cache
+C:\Users\91995\Desktop\net\CalculatorBasic\obj\Debug\net10.0\CalculatorBasic.dll
+C:\Users\91995\Desktop\net\CalculatorBasic\obj\Debug\net10.0\refint\CalculatorBasic.dll
+C:\Users\91995\Desktop\net\CalculatorBasic\obj\Debug\net10.0\CalculatorBasic.pdb
+C:\Users\91995\Desktop\net\CalculatorBasic\obj\Debug\net10.0\CalculatorBasic.genruntimeconfig.cache
+C:\Users\91995\Desktop\net\CalculatorBasic\obj\Debug\net10.0\ref\CalculatorBasic.dll

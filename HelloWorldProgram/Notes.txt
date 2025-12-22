@@ -1,0 +1,48 @@
+diff between core and framework
+coi based application 
+window gui based application / web application
+services -> without user interface
+web api 
+console based-> mvc gui -> react -> web api ->Microservices
+application interoperability (common language specification (cls)) 
+
+->c# can use vb and viceversa
+e.g System.Int32 alias of the both common type system used by both c# and vb  (common type system (cts))
+(common language runtime) 
+Sourcecode -> msile(microsoft intermediate language) -> jit compiler
+
+dll(dynamic linking library) ->executable -> meta data all combine to make assembly which is stored or deployed inside webserver
+
+manage code vs unmanage code
+clr code in .net is called manage code
+those who is not done by clr it have different executer , this are called unmanaged code
+
+
+base class library(bcl)
+predefined method grouped in called as namespace
+
+value type vs reference type
+variable are of two type -> 
+
+data type 
+user defined(stack delegate) vs primitive data type(bool int float)
+
+Type casting
+it take every thing in string format ->need to convert into other types as needed
+
+arthimatical , unary , bitwise 
+
+condition construct vs looping construct
+
+
+
+4 types of looping construct
+while 
+do while
+for loop
+for each  -> forward only ->meant to work for arrays and collections
+parallel for / for each
+
+
+day 3
+clr -> runtime environment (alternate to jvm in java)

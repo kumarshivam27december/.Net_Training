@@ -1,0 +1,218 @@
+Question No : 1 / 1
+Task:
+Write a C# program that determines if a given year is a leap year.
+The program should prompt the user to enter a year, use control statements to determine if the year is a leap year, and print whether the year is a leap year or not.
+Requirements:
+•	The program should read a year from the user.
+•	The program should implement the logic to determine if the year is a leap year using control statements.
+•	A leap year is defined as:
+o	Divisible by 4.
+o	If divisible by 100, it should also be divisible by 400.
+•	The program should print whether the year is a leap year or not.
+•	Write the solution within the Main function in the Program.cs file.
+Input Format:
+•	The first line of input should be a 4 digit integer.
+Output Format:
+•	Print a message indicating whether the entered year is a leap year or not.
+Refer Sample Output:
+Sample Input 1
+1999
+Sample Output 1
+1999 is not a leap year.
+Sample Input 2
+2012
+Sample Output 2
+2012 is a leap year.
+
+
+Commands to Run the Project:
+cd dotnetapp
+dotnet run
+dotnet build
+dotnet clean
+Note:
+The project will not be submitted if "Submit Project" is not done at least once.
+
+
+
+2
+Question No : 1 / 1
+Task:
+Write a C# program that reads a temperature in Celsius from the user, converts it to Fahrenheit, and then prints both the original Celsius temperature and the converted Fahrenheit temperature.
+Requirements:
+•	The program should read a temperature in Celsius from the user.
+•	The program should convert the temperature from Celsius to Fahrenheit using the below formula.
+•	Formula: Fahrenheit = (Celsius * 9 / 5) + 32
+•	The program should print both the original temperature in Celsius and the converted temperature in Fahrenheit.
+•	Write the solution within the Main function in the Program.cs file.
+Input Format:
+•	The first line of input is the floating point number.
+Output Format:
+•	The first line of output should be temperature in Celsius.
+•	The second line of output should be temperature in Fahrenheit.
+Refer Sample Output:
+Sample Input
+32
+Sample Output
+Temperature in Celsius: 32
+Temperature in Fahrenheit: 89.6
+Commands to Run the Project:
+cd dotnetapp
+dotnet run
+dotnet build
+dotnet clean
+Note:
+The project will not be submitted if "Submit Project" is not done at least once.
+
+
+
+Question No : 1 / 1
+Task:
+Write a C# program that reads a student’s exam score from the user and determines their grade based on the following grading scale:
+•	Score ≥ 90 : Grade A
+•	80 ≥ Score < 90 : Grade B
+•	70 ≥ Score < 80 : Grade C
+•	60 ≥ Score < 70 : Grade D
+•	Score < 60 : Grade F
+The program should use nested if statements to evaluate the input and print the corresponding grade.
+Write the solution within the Main function in the Program.cs file.
+________________________________________
+Input Format:
+•	The first line of input should be an integer.
+Output Format:
+•	The first line of output should be the Grade based on the score.
+________________________________________
+Refer Sample Output:
+Sample Input 1
+90
+Sample Output 1
+Grade: A
+________________________________________
+Commands to Run the Project:
+cd dotnetapp
+dotnet run
+dotnet build
+dotnet clean
+________________________________________
+Note:
+The project will not be submitted if "Submit Project" is not done at least once.
+
+
+
+
+
+
+4
+Question No : 1 / 1
+Task:
+Write a C# program that calculates the factorial of a non-negative integer entered by the user.
+The program should continuously prompt the user for input until they enter the letter q to quit.
+The program should perform the following:
+Requirements:
+•	Prompt the user to enter a non-negative integer.
+•	Calculate the factorial of the entered number.
+•	Display the result to the user.
+•	If the user enters a negative integer, display an error message.
+•	If the user enters any non-numeric input other than q, display an error message.
+•	Write the solution within the Main function in the Program.cs file.
+________________________________________
+Input Format:
+•	The input should be an integer greater than 0.
+•	The input should be q to quit the program.
+________________________________________
+Output Format:
+•	The output is to be printed as the factorial of the input number.
+________________________________________
+Refer Sample Output:
+Sample Input 1
+4
+2
+q
+Sample Output 1
+The factorial of 4 is 24.
+The factorial of 2 is 2.
+________________________________________
+Sample Input 2
+8
+-2
+q
+Sample Output 2
+The factorial of 8 is 40320.
+Invalid input! Please enter a non-negative integer.
+________________________________________
+Commands to Run the Project:
+cd dotnetapp
+dotnet run
+dotnet build
+dotnet clean
+________________________________________
+Note:
+The project will not be submitted if "Submit Project" is not done at least once.
+
+
+Question No : 1 / 1
+Task:
+Write a C# program that calculates and prints the sum of the first N natural numbers, where N is a positive integer entered by the user.
+Requirements:
+•	The program should prompt the user to enter a positive integer N.
+•	Use a for loop to calculate the sum of the first N natural numbers.
+•	Print the calculated sum to the console.
+•	Write the solution within the Main function in the Program.cs file.
+________________________________________
+Input Format:
+•	The first line of input should be an integer.
+Output Format:
+•	The first line of output should be the sum of the natural numbers of the entered integer.
+________________________________________
+Refer Sample Output:
+Sample Input
+4
+Sample Output
+Sum of the first 4 natural numbers: 10
+________________________________________
+Commands to Run the Project:
+cd dotnetapp
+dotnet run
+dotnet build
+dotnet clean
+________________________________________
+Note:
+The project will not be submitted if "Submit Project" is not done at least once.
+
+
+
+
+6
+Question No : 1 / 1
+Task:
+Write a C# program that prints the first N even numbers, where N is a positive integer entered by the user.
+Requirements:
+•	The program should use a for loop to generate and print the even numbers.
+•	Print each even number on a separate line.
+•	Write the solution within the Main function in the Program.cs file.
+________________________________________
+Input Format:
+•	The first line of input is an integer.
+________________________________________
+Output Format:
+•	The first line of output should be first entered digit of even numbers.
+•	The next lines of output should be the first N even numbers, where N is a positive integer entered by the user.
+________________________________________
+Refer Sample Output:
+Sample Input
+3
+Sample Output
+First 3 even numbers:
+2
+4
+6
+________________________________________
+Commands to Run the Project:
+cd dotnetapp
+dotnet run
+dotnet build
+dotnet clean
+________________________________________
+Note:
+The project will not be submitted if "Submit Project" is not done at least once.
+

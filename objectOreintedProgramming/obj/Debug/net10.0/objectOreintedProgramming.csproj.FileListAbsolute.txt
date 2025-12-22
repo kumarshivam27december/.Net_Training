@@ -1,0 +1,14 @@
+C:\Users\91995\Desktop\net\objectOreintedProgramming\bin\Debug\net10.0\objectOreintedProgramming.exe
+C:\Users\91995\Desktop\net\objectOreintedProgramming\bin\Debug\net10.0\objectOreintedProgramming.deps.json
+C:\Users\91995\Desktop\net\objectOreintedProgramming\bin\Debug\net10.0\objectOreintedProgramming.runtimeconfig.json
+C:\Users\91995\Desktop\net\objectOreintedProgramming\bin\Debug\net10.0\objectOreintedProgramming.dll
+C:\Users\91995\Desktop\net\objectOreintedProgramming\bin\Debug\net10.0\objectOreintedProgramming.pdb
+C:\Users\91995\Desktop\net\objectOreintedProgramming\obj\Debug\net10.0\objectOreintedProgramming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91995\Desktop\net\objectOreintedProgramming\obj\Debug\net10.0\objectOreintedProgramming.AssemblyInfoInputs.cache
+C:\Users\91995\Desktop\net\objectOreintedProgramming\obj\Debug\net10.0\objectOreintedProgramming.AssemblyInfo.cs
+C:\Users\91995\Desktop\net\objectOreintedProgramming\obj\Debug\net10.0\objectOreintedProgramming.csproj.CoreCompileInputs.cache
+C:\Users\91995\Desktop\net\objectOreintedProgramming\obj\Debug\net10.0\objectOreintedProgramming.dll
+C:\Users\91995\Desktop\net\objectOreintedProgramming\obj\Debug\net10.0\refint\objectOreintedProgramming.dll
+C:\Users\91995\Desktop\net\objectOreintedProgramming\obj\Debug\net10.0\objectOreintedProgramming.pdb
+C:\Users\91995\Desktop\net\objectOreintedProgramming\obj\Debug\net10.0\objectOreintedProgramming.genruntimeconfig.cache
+C:\Users\91995\Desktop\net\objectOreintedProgramming\obj\Debug\net10.0\ref\objectOreintedProgramming.dll
