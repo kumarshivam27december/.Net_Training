@@ -12,3 +12,4 @@ C:\Users\91995\Desktop\net\PracticeProblems\obj\Debug\net10.0\refint\PracticePro
 C:\Users\91995\Desktop\net\PracticeProblems\obj\Debug\net10.0\PracticeProblems.pdb
 C:\Users\91995\Desktop\net\PracticeProblems\obj\Debug\net10.0\PracticeProblems.genruntimeconfig.cache
 C:\Users\91995\Desktop\net\PracticeProblems\obj\Debug\net10.0\ref\PracticeProblems.dll
+C:\Users\91995\Desktop\net\PracticeProblems\obj\Debug\net10.0\PracticeProblems.sourcelink.json

@@ -33,8 +33,9 @@ class Program
         // CaseBased1.Solve();
         // CaseBased2.Solve();
         // CaseBased3.Solve();
-        CaseBased4.Solve();
+        // CaseBased4.Solve();
         // CaseBased5.Solve();
         // CaseBased6.Solve();
+        PrimeNumber.Solve();
     }
 }

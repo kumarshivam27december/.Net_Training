@@ -1,0 +1,15 @@
+C:\Users\91995\Desktop\net\CarInformationManagement\bin\Debug\net10.0\CarInformationManagement.exe
+C:\Users\91995\Desktop\net\CarInformationManagement\bin\Debug\net10.0\CarInformationManagement.deps.json
+C:\Users\91995\Desktop\net\CarInformationManagement\bin\Debug\net10.0\CarInformationManagement.runtimeconfig.json
+C:\Users\91995\Desktop\net\CarInformationManagement\bin\Debug\net10.0\CarInformationManagement.dll
+C:\Users\91995\Desktop\net\CarInformationManagement\bin\Debug\net10.0\CarInformationManagement.pdb
+C:\Users\91995\Desktop\net\CarInformationManagement\obj\Debug\net10.0\CarInformationManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91995\Desktop\net\CarInformationManagement\obj\Debug\net10.0\CarInformationManagement.AssemblyInfoInputs.cache
+C:\Users\91995\Desktop\net\CarInformationManagement\obj\Debug\net10.0\CarInformationManagement.AssemblyInfo.cs
+C:\Users\91995\Desktop\net\CarInformationManagement\obj\Debug\net10.0\CarInformationManagement.csproj.CoreCompileInputs.cache
+C:\Users\91995\Desktop\net\CarInformationManagement\obj\Debug\net10.0\CarInformationManagement.sourcelink.json
+C:\Users\91995\Desktop\net\CarInformationManagement\obj\Debug\net10.0\CarInformationManagement.dll
+C:\Users\91995\Desktop\net\CarInformationManagement\obj\Debug\net10.0\refint\CarInformationManagement.dll
+C:\Users\91995\Desktop\net\CarInformationManagement\obj\Debug\net10.0\CarInformationManagement.pdb
+C:\Users\91995\Desktop\net\CarInformationManagement\obj\Debug\net10.0\CarInformationManagement.genruntimeconfig.cache
+C:\Users\91995\Desktop\net\CarInformationManagement\obj\Debug\net10.0\ref\CarInformationManagement.dll

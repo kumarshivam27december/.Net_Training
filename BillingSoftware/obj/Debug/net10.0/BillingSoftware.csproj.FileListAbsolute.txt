@@ -1,0 +1,15 @@
+C:\Users\91995\Desktop\net\BillingSoftware\bin\Debug\net10.0\BillingSoftware.exe
+C:\Users\91995\Desktop\net\BillingSoftware\bin\Debug\net10.0\BillingSoftware.deps.json
+C:\Users\91995\Desktop\net\BillingSoftware\bin\Debug\net10.0\BillingSoftware.runtimeconfig.json
+C:\Users\91995\Desktop\net\BillingSoftware\bin\Debug\net10.0\BillingSoftware.dll
+C:\Users\91995\Desktop\net\BillingSoftware\bin\Debug\net10.0\BillingSoftware.pdb
+C:\Users\91995\Desktop\net\BillingSoftware\obj\Debug\net10.0\BillingSoftware.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91995\Desktop\net\BillingSoftware\obj\Debug\net10.0\BillingSoftware.AssemblyInfoInputs.cache
+C:\Users\91995\Desktop\net\BillingSoftware\obj\Debug\net10.0\BillingSoftware.AssemblyInfo.cs
+C:\Users\91995\Desktop\net\BillingSoftware\obj\Debug\net10.0\BillingSoftware.csproj.CoreCompileInputs.cache
+C:\Users\91995\Desktop\net\BillingSoftware\obj\Debug\net10.0\BillingSoftware.sourcelink.json
+C:\Users\91995\Desktop\net\BillingSoftware\obj\Debug\net10.0\BillingSoftware.dll
+C:\Users\91995\Desktop\net\BillingSoftware\obj\Debug\net10.0\refint\BillingSoftware.dll
+C:\Users\91995\Desktop\net\BillingSoftware\obj\Debug\net10.0\BillingSoftware.pdb
+C:\Users\91995\Desktop\net\BillingSoftware\obj\Debug\net10.0\BillingSoftware.genruntimeconfig.cache
+C:\Users\91995\Desktop\net\BillingSoftware\obj\Debug\net10.0\ref\BillingSoftware.dll

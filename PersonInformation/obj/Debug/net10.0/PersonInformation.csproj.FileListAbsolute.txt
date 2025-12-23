@@ -1,0 +1,15 @@
+C:\Users\91995\Desktop\net\PersonInformation\bin\Debug\net10.0\PersonInformation.exe
+C:\Users\91995\Desktop\net\PersonInformation\bin\Debug\net10.0\PersonInformation.deps.json
+C:\Users\91995\Desktop\net\PersonInformation\bin\Debug\net10.0\PersonInformation.runtimeconfig.json
+C:\Users\91995\Desktop\net\PersonInformation\bin\Debug\net10.0\PersonInformation.dll
+C:\Users\91995\Desktop\net\PersonInformation\bin\Debug\net10.0\PersonInformation.pdb
+C:\Users\91995\Desktop\net\PersonInformation\obj\Debug\net10.0\PersonInformation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91995\Desktop\net\PersonInformation\obj\Debug\net10.0\PersonInformation.AssemblyInfoInputs.cache
+C:\Users\91995\Desktop\net\PersonInformation\obj\Debug\net10.0\PersonInformation.AssemblyInfo.cs
+C:\Users\91995\Desktop\net\PersonInformation\obj\Debug\net10.0\PersonInformation.csproj.CoreCompileInputs.cache
+C:\Users\91995\Desktop\net\PersonInformation\obj\Debug\net10.0\PersonInformation.sourcelink.json
+C:\Users\91995\Desktop\net\PersonInformation\obj\Debug\net10.0\PersonInformation.dll
+C:\Users\91995\Desktop\net\PersonInformation\obj\Debug\net10.0\refint\PersonInformation.dll
+C:\Users\91995\Desktop\net\PersonInformation\obj\Debug\net10.0\PersonInformation.pdb
+C:\Users\91995\Desktop\net\PersonInformation\obj\Debug\net10.0\PersonInformation.genruntimeconfig.cache
+C:\Users\91995\Desktop\net\PersonInformation\obj\Debug\net10.0\ref\PersonInformation.dll

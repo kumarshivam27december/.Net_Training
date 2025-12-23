@@ -1,0 +1,15 @@
+C:\Users\91995\Desktop\net\ConsoleApplicationCalculator\bin\Debug\net10.0\ConsoleApplicationCalculator.exe
+C:\Users\91995\Desktop\net\ConsoleApplicationCalculator\bin\Debug\net10.0\ConsoleApplicationCalculator.deps.json
+C:\Users\91995\Desktop\net\ConsoleApplicationCalculator\bin\Debug\net10.0\ConsoleApplicationCalculator.runtimeconfig.json
+C:\Users\91995\Desktop\net\ConsoleApplicationCalculator\bin\Debug\net10.0\ConsoleApplicationCalculator.dll
+C:\Users\91995\Desktop\net\ConsoleApplicationCalculator\bin\Debug\net10.0\ConsoleApplicationCalculator.pdb
+C:\Users\91995\Desktop\net\ConsoleApplicationCalculator\obj\Debug\net10.0\ConsoleApplicationCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91995\Desktop\net\ConsoleApplicationCalculator\obj\Debug\net10.0\ConsoleApplicationCalculator.AssemblyInfoInputs.cache
+C:\Users\91995\Desktop\net\ConsoleApplicationCalculator\obj\Debug\net10.0\ConsoleApplicationCalculator.AssemblyInfo.cs
+C:\Users\91995\Desktop\net\ConsoleApplicationCalculator\obj\Debug\net10.0\ConsoleApplicationCalculator.csproj.CoreCompileInputs.cache
+C:\Users\91995\Desktop\net\ConsoleApplicationCalculator\obj\Debug\net10.0\ConsoleApplicationCalculator.sourcelink.json
+C:\Users\91995\Desktop\net\ConsoleApplicationCalculator\obj\Debug\net10.0\ConsoleApplicationCalculator.dll
+C:\Users\91995\Desktop\net\ConsoleApplicationCalculator\obj\Debug\net10.0\refint\ConsoleApplicationCalculator.dll
+C:\Users\91995\Desktop\net\ConsoleApplicationCalculator\obj\Debug\net10.0\ConsoleApplicationCalculator.pdb
+C:\Users\91995\Desktop\net\ConsoleApplicationCalculator\obj\Debug\net10.0\ConsoleApplicationCalculator.genruntimeconfig.cache
+C:\Users\91995\Desktop\net\ConsoleApplicationCalculator\obj\Debug\net10.0\ref\ConsoleApplicationCalculator.dll

@@ -1,0 +1,15 @@
+C:\Users\91995\Desktop\net\StringConvertor\bin\Debug\net10.0\StringConvertor.exe
+C:\Users\91995\Desktop\net\StringConvertor\bin\Debug\net10.0\StringConvertor.deps.json
+C:\Users\91995\Desktop\net\StringConvertor\bin\Debug\net10.0\StringConvertor.runtimeconfig.json
+C:\Users\91995\Desktop\net\StringConvertor\bin\Debug\net10.0\StringConvertor.dll
+C:\Users\91995\Desktop\net\StringConvertor\bin\Debug\net10.0\StringConvertor.pdb
+C:\Users\91995\Desktop\net\StringConvertor\obj\Debug\net10.0\StringConvertor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91995\Desktop\net\StringConvertor\obj\Debug\net10.0\StringConvertor.AssemblyInfoInputs.cache
+C:\Users\91995\Desktop\net\StringConvertor\obj\Debug\net10.0\StringConvertor.AssemblyInfo.cs
+C:\Users\91995\Desktop\net\StringConvertor\obj\Debug\net10.0\StringConvertor.csproj.CoreCompileInputs.cache
+C:\Users\91995\Desktop\net\StringConvertor\obj\Debug\net10.0\StringConvertor.sourcelink.json
+C:\Users\91995\Desktop\net\StringConvertor\obj\Debug\net10.0\StringConvertor.dll
+C:\Users\91995\Desktop\net\StringConvertor\obj\Debug\net10.0\refint\StringConvertor.dll
+C:\Users\91995\Desktop\net\StringConvertor\obj\Debug\net10.0\StringConvertor.pdb
+C:\Users\91995\Desktop\net\StringConvertor\obj\Debug\net10.0\StringConvertor.genruntimeconfig.cache
+C:\Users\91995\Desktop\net\StringConvertor\obj\Debug\net10.0\ref\StringConvertor.dll

@@ -1,0 +1,15 @@
+C:\Users\91995\Desktop\net\MethodAndConstructor\bin\Debug\net10.0\MethodAndConstructor.exe
+C:\Users\91995\Desktop\net\MethodAndConstructor\bin\Debug\net10.0\MethodAndConstructor.deps.json
+C:\Users\91995\Desktop\net\MethodAndConstructor\bin\Debug\net10.0\MethodAndConstructor.runtimeconfig.json
+C:\Users\91995\Desktop\net\MethodAndConstructor\bin\Debug\net10.0\MethodAndConstructor.dll
+C:\Users\91995\Desktop\net\MethodAndConstructor\bin\Debug\net10.0\MethodAndConstructor.pdb
+C:\Users\91995\Desktop\net\MethodAndConstructor\obj\Debug\net10.0\MethodAndConstructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91995\Desktop\net\MethodAndConstructor\obj\Debug\net10.0\MethodAndConstructor.AssemblyInfoInputs.cache
+C:\Users\91995\Desktop\net\MethodAndConstructor\obj\Debug\net10.0\MethodAndConstructor.AssemblyInfo.cs
+C:\Users\91995\Desktop\net\MethodAndConstructor\obj\Debug\net10.0\MethodAndConstructor.csproj.CoreCompileInputs.cache
+C:\Users\91995\Desktop\net\MethodAndConstructor\obj\Debug\net10.0\MethodAndConstructor.sourcelink.json
+C:\Users\91995\Desktop\net\MethodAndConstructor\obj\Debug\net10.0\MethodAndConstructor.dll
+C:\Users\91995\Desktop\net\MethodAndConstructor\obj\Debug\net10.0\refint\MethodAndConstructor.dll
+C:\Users\91995\Desktop\net\MethodAndConstructor\obj\Debug\net10.0\MethodAndConstructor.pdb
+C:\Users\91995\Desktop\net\MethodAndConstructor\obj\Debug\net10.0\MethodAndConstructor.genruntimeconfig.cache
+C:\Users\91995\Desktop\net\MethodAndConstructor\obj\Debug\net10.0\ref\MethodAndConstructor.dll

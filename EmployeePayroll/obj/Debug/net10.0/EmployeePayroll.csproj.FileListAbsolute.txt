@@ -1,0 +1,15 @@
+C:\Users\91995\Desktop\net\EmployeePayroll\bin\Debug\net10.0\EmployeePayroll.exe
+C:\Users\91995\Desktop\net\EmployeePayroll\bin\Debug\net10.0\EmployeePayroll.deps.json
+C:\Users\91995\Desktop\net\EmployeePayroll\bin\Debug\net10.0\EmployeePayroll.runtimeconfig.json
+C:\Users\91995\Desktop\net\EmployeePayroll\bin\Debug\net10.0\EmployeePayroll.dll
+C:\Users\91995\Desktop\net\EmployeePayroll\bin\Debug\net10.0\EmployeePayroll.pdb
+C:\Users\91995\Desktop\net\EmployeePayroll\obj\Debug\net10.0\EmployeePayroll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91995\Desktop\net\EmployeePayroll\obj\Debug\net10.0\EmployeePayroll.AssemblyInfoInputs.cache
+C:\Users\91995\Desktop\net\EmployeePayroll\obj\Debug\net10.0\EmployeePayroll.AssemblyInfo.cs
+C:\Users\91995\Desktop\net\EmployeePayroll\obj\Debug\net10.0\EmployeePayroll.csproj.CoreCompileInputs.cache
+C:\Users\91995\Desktop\net\EmployeePayroll\obj\Debug\net10.0\EmployeePayroll.sourcelink.json
+C:\Users\91995\Desktop\net\EmployeePayroll\obj\Debug\net10.0\EmployeePayroll.dll
+C:\Users\91995\Desktop\net\EmployeePayroll\obj\Debug\net10.0\refint\EmployeePayroll.dll
+C:\Users\91995\Desktop\net\EmployeePayroll\obj\Debug\net10.0\EmployeePayroll.pdb
+C:\Users\91995\Desktop\net\EmployeePayroll\obj\Debug\net10.0\EmployeePayroll.genruntimeconfig.cache
+C:\Users\91995\Desktop\net\EmployeePayroll\obj\Debug\net10.0\ref\EmployeePayroll.dll
