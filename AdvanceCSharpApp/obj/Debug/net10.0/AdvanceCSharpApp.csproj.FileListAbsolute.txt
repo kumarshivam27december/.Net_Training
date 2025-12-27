@@ -1,0 +1,15 @@
+C:\Users\91995\Desktop\net\AdvanceCSharpApp\bin\Debug\net10.0\AdvanceCSharpApp.exe
+C:\Users\91995\Desktop\net\AdvanceCSharpApp\bin\Debug\net10.0\AdvanceCSharpApp.deps.json
+C:\Users\91995\Desktop\net\AdvanceCSharpApp\bin\Debug\net10.0\AdvanceCSharpApp.runtimeconfig.json
+C:\Users\91995\Desktop\net\AdvanceCSharpApp\bin\Debug\net10.0\AdvanceCSharpApp.dll
+C:\Users\91995\Desktop\net\AdvanceCSharpApp\bin\Debug\net10.0\AdvanceCSharpApp.pdb
+C:\Users\91995\Desktop\net\AdvanceCSharpApp\obj\Debug\net10.0\AdvanceCSharpApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91995\Desktop\net\AdvanceCSharpApp\obj\Debug\net10.0\AdvanceCSharpApp.AssemblyInfoInputs.cache
+C:\Users\91995\Desktop\net\AdvanceCSharpApp\obj\Debug\net10.0\AdvanceCSharpApp.AssemblyInfo.cs
+C:\Users\91995\Desktop\net\AdvanceCSharpApp\obj\Debug\net10.0\AdvanceCSharpApp.csproj.CoreCompileInputs.cache
+C:\Users\91995\Desktop\net\AdvanceCSharpApp\obj\Debug\net10.0\AdvanceCSharpApp.sourcelink.json
+C:\Users\91995\Desktop\net\AdvanceCSharpApp\obj\Debug\net10.0\AdvanceCSharpApp.dll
+C:\Users\91995\Desktop\net\AdvanceCSharpApp\obj\Debug\net10.0\refint\AdvanceCSharpApp.dll
+C:\Users\91995\Desktop\net\AdvanceCSharpApp\obj\Debug\net10.0\AdvanceCSharpApp.pdb
+C:\Users\91995\Desktop\net\AdvanceCSharpApp\obj\Debug\net10.0\AdvanceCSharpApp.genruntimeconfig.cache
+C:\Users\91995\Desktop\net\AdvanceCSharpApp\obj\Debug\net10.0\ref\AdvanceCSharpApp.dll

@@ -36,6 +36,7 @@ class Program
         // CaseBased4.Solve();
         // CaseBased5.Solve();
         // CaseBased6.Solve();
-        PrimeNumber.Solve();
+        // PrimeNumber.Solve();
+        Test.Solve();
     }
 }

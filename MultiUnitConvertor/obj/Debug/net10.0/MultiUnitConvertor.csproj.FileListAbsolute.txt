@@ -1,0 +1,15 @@
+C:\Users\91995\Desktop\net\MultiUnitConvertor\bin\Debug\net10.0\MultiUnitConvertor.exe
+C:\Users\91995\Desktop\net\MultiUnitConvertor\bin\Debug\net10.0\MultiUnitConvertor.deps.json
+C:\Users\91995\Desktop\net\MultiUnitConvertor\bin\Debug\net10.0\MultiUnitConvertor.runtimeconfig.json
+C:\Users\91995\Desktop\net\MultiUnitConvertor\bin\Debug\net10.0\MultiUnitConvertor.dll
+C:\Users\91995\Desktop\net\MultiUnitConvertor\bin\Debug\net10.0\MultiUnitConvertor.pdb
+C:\Users\91995\Desktop\net\MultiUnitConvertor\obj\Debug\net10.0\MultiUnitConvertor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91995\Desktop\net\MultiUnitConvertor\obj\Debug\net10.0\MultiUnitConvertor.AssemblyInfoInputs.cache
+C:\Users\91995\Desktop\net\MultiUnitConvertor\obj\Debug\net10.0\MultiUnitConvertor.AssemblyInfo.cs
+C:\Users\91995\Desktop\net\MultiUnitConvertor\obj\Debug\net10.0\MultiUnitConvertor.csproj.CoreCompileInputs.cache
+C:\Users\91995\Desktop\net\MultiUnitConvertor\obj\Debug\net10.0\MultiUnitConvertor.sourcelink.json
+C:\Users\91995\Desktop\net\MultiUnitConvertor\obj\Debug\net10.0\MultiUnitConvertor.dll
+C:\Users\91995\Desktop\net\MultiUnitConvertor\obj\Debug\net10.0\refint\MultiUnitConvertor.dll
+C:\Users\91995\Desktop\net\MultiUnitConvertor\obj\Debug\net10.0\MultiUnitConvertor.pdb
+C:\Users\91995\Desktop\net\MultiUnitConvertor\obj\Debug\net10.0\MultiUnitConvertor.genruntimeconfig.cache
+C:\Users\91995\Desktop\net\MultiUnitConvertor\obj\Debug\net10.0\ref\MultiUnitConvertor.dll

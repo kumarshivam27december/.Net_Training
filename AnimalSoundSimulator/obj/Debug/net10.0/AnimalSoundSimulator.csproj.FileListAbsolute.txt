@@ -1,0 +1,15 @@
+C:\Users\91995\Desktop\net\AnimalSoundSimulator\bin\Debug\net10.0\AnimalSoundSimulator.exe
+C:\Users\91995\Desktop\net\AnimalSoundSimulator\bin\Debug\net10.0\AnimalSoundSimulator.deps.json
+C:\Users\91995\Desktop\net\AnimalSoundSimulator\bin\Debug\net10.0\AnimalSoundSimulator.runtimeconfig.json
+C:\Users\91995\Desktop\net\AnimalSoundSimulator\bin\Debug\net10.0\AnimalSoundSimulator.dll
+C:\Users\91995\Desktop\net\AnimalSoundSimulator\bin\Debug\net10.0\AnimalSoundSimulator.pdb
+C:\Users\91995\Desktop\net\AnimalSoundSimulator\obj\Debug\net10.0\AnimalSoundSimulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91995\Desktop\net\AnimalSoundSimulator\obj\Debug\net10.0\AnimalSoundSimulator.AssemblyInfoInputs.cache
+C:\Users\91995\Desktop\net\AnimalSoundSimulator\obj\Debug\net10.0\AnimalSoundSimulator.AssemblyInfo.cs
+C:\Users\91995\Desktop\net\AnimalSoundSimulator\obj\Debug\net10.0\AnimalSoundSimulator.csproj.CoreCompileInputs.cache
+C:\Users\91995\Desktop\net\AnimalSoundSimulator\obj\Debug\net10.0\AnimalSoundSimulator.sourcelink.json
+C:\Users\91995\Desktop\net\AnimalSoundSimulator\obj\Debug\net10.0\AnimalSoundSimulator.dll
+C:\Users\91995\Desktop\net\AnimalSoundSimulator\obj\Debug\net10.0\refint\AnimalSoundSimulator.dll
+C:\Users\91995\Desktop\net\AnimalSoundSimulator\obj\Debug\net10.0\AnimalSoundSimulator.pdb
+C:\Users\91995\Desktop\net\AnimalSoundSimulator\obj\Debug\net10.0\AnimalSoundSimulator.genruntimeconfig.cache
+C:\Users\91995\Desktop\net\AnimalSoundSimulator\obj\Debug\net10.0\ref\AnimalSoundSimulator.dll

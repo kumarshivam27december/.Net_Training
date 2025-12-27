@@ -1,0 +1,15 @@
+C:\Users\91995\Desktop\net\ClothStore\bin\Debug\net10.0\ClothStore.exe
+C:\Users\91995\Desktop\net\ClothStore\bin\Debug\net10.0\ClothStore.deps.json
+C:\Users\91995\Desktop\net\ClothStore\bin\Debug\net10.0\ClothStore.runtimeconfig.json
+C:\Users\91995\Desktop\net\ClothStore\bin\Debug\net10.0\ClothStore.dll
+C:\Users\91995\Desktop\net\ClothStore\bin\Debug\net10.0\ClothStore.pdb
+C:\Users\91995\Desktop\net\ClothStore\obj\Debug\net10.0\ClothStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91995\Desktop\net\ClothStore\obj\Debug\net10.0\ClothStore.AssemblyInfoInputs.cache
+C:\Users\91995\Desktop\net\ClothStore\obj\Debug\net10.0\ClothStore.AssemblyInfo.cs
+C:\Users\91995\Desktop\net\ClothStore\obj\Debug\net10.0\ClothStore.csproj.CoreCompileInputs.cache
+C:\Users\91995\Desktop\net\ClothStore\obj\Debug\net10.0\ClothStore.sourcelink.json
+C:\Users\91995\Desktop\net\ClothStore\obj\Debug\net10.0\ClothStore.dll
+C:\Users\91995\Desktop\net\ClothStore\obj\Debug\net10.0\refint\ClothStore.dll
+C:\Users\91995\Desktop\net\ClothStore\obj\Debug\net10.0\ClothStore.pdb
+C:\Users\91995\Desktop\net\ClothStore\obj\Debug\net10.0\ClothStore.genruntimeconfig.cache
+C:\Users\91995\Desktop\net\ClothStore\obj\Debug\net10.0\ref\ClothStore.dll

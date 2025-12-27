@@ -1,0 +1,15 @@
+C:\Users\91995\Desktop\net\VehicalRentalEstimator\bin\Debug\net10.0\VehicalRentalEstimator.exe
+C:\Users\91995\Desktop\net\VehicalRentalEstimator\bin\Debug\net10.0\VehicalRentalEstimator.deps.json
+C:\Users\91995\Desktop\net\VehicalRentalEstimator\bin\Debug\net10.0\VehicalRentalEstimator.runtimeconfig.json
+C:\Users\91995\Desktop\net\VehicalRentalEstimator\bin\Debug\net10.0\VehicalRentalEstimator.dll
+C:\Users\91995\Desktop\net\VehicalRentalEstimator\bin\Debug\net10.0\VehicalRentalEstimator.pdb
+C:\Users\91995\Desktop\net\VehicalRentalEstimator\obj\Debug\net10.0\VehicalRentalEstimator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91995\Desktop\net\VehicalRentalEstimator\obj\Debug\net10.0\VehicalRentalEstimator.AssemblyInfoInputs.cache
+C:\Users\91995\Desktop\net\VehicalRentalEstimator\obj\Debug\net10.0\VehicalRentalEstimator.AssemblyInfo.cs
+C:\Users\91995\Desktop\net\VehicalRentalEstimator\obj\Debug\net10.0\VehicalRentalEstimator.csproj.CoreCompileInputs.cache
+C:\Users\91995\Desktop\net\VehicalRentalEstimator\obj\Debug\net10.0\VehicalRentalEstimator.sourcelink.json
+C:\Users\91995\Desktop\net\VehicalRentalEstimator\obj\Debug\net10.0\VehicalRentalEstimator.dll
+C:\Users\91995\Desktop\net\VehicalRentalEstimator\obj\Debug\net10.0\refint\VehicalRentalEstimator.dll
+C:\Users\91995\Desktop\net\VehicalRentalEstimator\obj\Debug\net10.0\VehicalRentalEstimator.pdb
+C:\Users\91995\Desktop\net\VehicalRentalEstimator\obj\Debug\net10.0\VehicalRentalEstimator.genruntimeconfig.cache
+C:\Users\91995\Desktop\net\VehicalRentalEstimator\obj\Debug\net10.0\ref\VehicalRentalEstimator.dll
