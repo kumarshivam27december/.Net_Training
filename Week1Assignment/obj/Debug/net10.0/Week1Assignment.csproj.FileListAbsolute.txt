@@ -1,0 +1,15 @@
+C:\Users\91995\Desktop\net\Week1Assignment\bin\Debug\net10.0\Week1Assignment.exe
+C:\Users\91995\Desktop\net\Week1Assignment\bin\Debug\net10.0\Week1Assignment.deps.json
+C:\Users\91995\Desktop\net\Week1Assignment\bin\Debug\net10.0\Week1Assignment.runtimeconfig.json
+C:\Users\91995\Desktop\net\Week1Assignment\bin\Debug\net10.0\Week1Assignment.dll
+C:\Users\91995\Desktop\net\Week1Assignment\bin\Debug\net10.0\Week1Assignment.pdb
+C:\Users\91995\Desktop\net\Week1Assignment\obj\Debug\net10.0\Week1Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91995\Desktop\net\Week1Assignment\obj\Debug\net10.0\Week1Assignment.AssemblyInfoInputs.cache
+C:\Users\91995\Desktop\net\Week1Assignment\obj\Debug\net10.0\Week1Assignment.AssemblyInfo.cs
+C:\Users\91995\Desktop\net\Week1Assignment\obj\Debug\net10.0\Week1Assignment.csproj.CoreCompileInputs.cache
+C:\Users\91995\Desktop\net\Week1Assignment\obj\Debug\net10.0\Week1Assignment.sourcelink.json
+C:\Users\91995\Desktop\net\Week1Assignment\obj\Debug\net10.0\Week1Assignment.dll
+C:\Users\91995\Desktop\net\Week1Assignment\obj\Debug\net10.0\refint\Week1Assignment.dll
+C:\Users\91995\Desktop\net\Week1Assignment\obj\Debug\net10.0\Week1Assignment.pdb
+C:\Users\91995\Desktop\net\Week1Assignment\obj\Debug\net10.0\Week1Assignment.genruntimeconfig.cache
+C:\Users\91995\Desktop\net\Week1Assignment\obj\Debug\net10.0\ref\Week1Assignment.dll

@@ -1,0 +1,15 @@
+C:\Users\91995\Desktop\net\QuickMarkTrader\bin\Debug\net10.0\QuickMarkTrader.exe
+C:\Users\91995\Desktop\net\QuickMarkTrader\bin\Debug\net10.0\QuickMarkTrader.deps.json
+C:\Users\91995\Desktop\net\QuickMarkTrader\bin\Debug\net10.0\QuickMarkTrader.runtimeconfig.json
+C:\Users\91995\Desktop\net\QuickMarkTrader\bin\Debug\net10.0\QuickMarkTrader.dll
+C:\Users\91995\Desktop\net\QuickMarkTrader\bin\Debug\net10.0\QuickMarkTrader.pdb
+C:\Users\91995\Desktop\net\QuickMarkTrader\obj\Debug\net10.0\QuickMarkTrader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91995\Desktop\net\QuickMarkTrader\obj\Debug\net10.0\QuickMarkTrader.AssemblyInfoInputs.cache
+C:\Users\91995\Desktop\net\QuickMarkTrader\obj\Debug\net10.0\QuickMarkTrader.AssemblyInfo.cs
+C:\Users\91995\Desktop\net\QuickMarkTrader\obj\Debug\net10.0\QuickMarkTrader.csproj.CoreCompileInputs.cache
+C:\Users\91995\Desktop\net\QuickMarkTrader\obj\Debug\net10.0\QuickMarkTrader.sourcelink.json
+C:\Users\91995\Desktop\net\QuickMarkTrader\obj\Debug\net10.0\QuickMarkTrader.dll
+C:\Users\91995\Desktop\net\QuickMarkTrader\obj\Debug\net10.0\refint\QuickMarkTrader.dll
+C:\Users\91995\Desktop\net\QuickMarkTrader\obj\Debug\net10.0\QuickMarkTrader.pdb
+C:\Users\91995\Desktop\net\QuickMarkTrader\obj\Debug\net10.0\QuickMarkTrader.genruntimeconfig.cache
+C:\Users\91995\Desktop\net\QuickMarkTrader\obj\Debug\net10.0\ref\QuickMarkTrader.dll
