@@ -1,0 +1,15 @@
+C:\Users\91995\Desktop\net\ArrayClassDemo\bin\Debug\net10.0\ArrayClassDemo.exe
+C:\Users\91995\Desktop\net\ArrayClassDemo\bin\Debug\net10.0\ArrayClassDemo.deps.json
+C:\Users\91995\Desktop\net\ArrayClassDemo\bin\Debug\net10.0\ArrayClassDemo.runtimeconfig.json
+C:\Users\91995\Desktop\net\ArrayClassDemo\bin\Debug\net10.0\ArrayClassDemo.dll
+C:\Users\91995\Desktop\net\ArrayClassDemo\bin\Debug\net10.0\ArrayClassDemo.pdb
+C:\Users\91995\Desktop\net\ArrayClassDemo\obj\Debug\net10.0\ArrayClassDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91995\Desktop\net\ArrayClassDemo\obj\Debug\net10.0\ArrayClassDemo.AssemblyInfoInputs.cache
+C:\Users\91995\Desktop\net\ArrayClassDemo\obj\Debug\net10.0\ArrayClassDemo.AssemblyInfo.cs
+C:\Users\91995\Desktop\net\ArrayClassDemo\obj\Debug\net10.0\ArrayClassDemo.csproj.CoreCompileInputs.cache
+C:\Users\91995\Desktop\net\ArrayClassDemo\obj\Debug\net10.0\ArrayClassDemo.sourcelink.json
+C:\Users\91995\Desktop\net\ArrayClassDemo\obj\Debug\net10.0\ArrayClassDemo.dll
+C:\Users\91995\Desktop\net\ArrayClassDemo\obj\Debug\net10.0\refint\ArrayClassDemo.dll
+C:\Users\91995\Desktop\net\ArrayClassDemo\obj\Debug\net10.0\ArrayClassDemo.pdb
+C:\Users\91995\Desktop\net\ArrayClassDemo\obj\Debug\net10.0\ArrayClassDemo.genruntimeconfig.cache
+C:\Users\91995\Desktop\net\ArrayClassDemo\obj\Debug\net10.0\ref\ArrayClassDemo.dll

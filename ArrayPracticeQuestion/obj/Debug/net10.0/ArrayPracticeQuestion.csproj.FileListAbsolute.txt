@@ -1,0 +1,15 @@
+C:\Users\91995\Desktop\net\ArrayPracticeQuestion\bin\Debug\net10.0\ArrayPracticeQuestion.exe
+C:\Users\91995\Desktop\net\ArrayPracticeQuestion\bin\Debug\net10.0\ArrayPracticeQuestion.deps.json
+C:\Users\91995\Desktop\net\ArrayPracticeQuestion\bin\Debug\net10.0\ArrayPracticeQuestion.runtimeconfig.json
+C:\Users\91995\Desktop\net\ArrayPracticeQuestion\bin\Debug\net10.0\ArrayPracticeQuestion.dll
+C:\Users\91995\Desktop\net\ArrayPracticeQuestion\bin\Debug\net10.0\ArrayPracticeQuestion.pdb
+C:\Users\91995\Desktop\net\ArrayPracticeQuestion\obj\Debug\net10.0\ArrayPracticeQuestion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91995\Desktop\net\ArrayPracticeQuestion\obj\Debug\net10.0\ArrayPracticeQuestion.AssemblyInfoInputs.cache
+C:\Users\91995\Desktop\net\ArrayPracticeQuestion\obj\Debug\net10.0\ArrayPracticeQuestion.AssemblyInfo.cs
+C:\Users\91995\Desktop\net\ArrayPracticeQuestion\obj\Debug\net10.0\ArrayPracticeQuestion.csproj.CoreCompileInputs.cache
+C:\Users\91995\Desktop\net\ArrayPracticeQuestion\obj\Debug\net10.0\ArrayPracticeQuestion.sourcelink.json
+C:\Users\91995\Desktop\net\ArrayPracticeQuestion\obj\Debug\net10.0\ArrayPracticeQuestion.dll
+C:\Users\91995\Desktop\net\ArrayPracticeQuestion\obj\Debug\net10.0\refint\ArrayPracticeQuestion.dll
+C:\Users\91995\Desktop\net\ArrayPracticeQuestion\obj\Debug\net10.0\ArrayPracticeQuestion.pdb
+C:\Users\91995\Desktop\net\ArrayPracticeQuestion\obj\Debug\net10.0\ArrayPracticeQuestion.genruntimeconfig.cache
+C:\Users\91995\Desktop\net\ArrayPracticeQuestion\obj\Debug\net10.0\ref\ArrayPracticeQuestion.dll
