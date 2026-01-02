@@ -1,0 +1,15 @@
+C:\Users\91995\Desktop\net\stringPracticeProblems\bin\Debug\net10.0\stringPracticeProblems.exe
+C:\Users\91995\Desktop\net\stringPracticeProblems\bin\Debug\net10.0\stringPracticeProblems.deps.json
+C:\Users\91995\Desktop\net\stringPracticeProblems\bin\Debug\net10.0\stringPracticeProblems.runtimeconfig.json
+C:\Users\91995\Desktop\net\stringPracticeProblems\bin\Debug\net10.0\stringPracticeProblems.dll
+C:\Users\91995\Desktop\net\stringPracticeProblems\bin\Debug\net10.0\stringPracticeProblems.pdb
+C:\Users\91995\Desktop\net\stringPracticeProblems\obj\Debug\net10.0\stringPracticeProblems.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91995\Desktop\net\stringPracticeProblems\obj\Debug\net10.0\stringPracticeProblems.AssemblyInfoInputs.cache
+C:\Users\91995\Desktop\net\stringPracticeProblems\obj\Debug\net10.0\stringPracticeProblems.AssemblyInfo.cs
+C:\Users\91995\Desktop\net\stringPracticeProblems\obj\Debug\net10.0\stringPracticeProblems.csproj.CoreCompileInputs.cache
+C:\Users\91995\Desktop\net\stringPracticeProblems\obj\Debug\net10.0\stringPracticeProblems.sourcelink.json
+C:\Users\91995\Desktop\net\stringPracticeProblems\obj\Debug\net10.0\stringPracticeProblems.dll
+C:\Users\91995\Desktop\net\stringPracticeProblems\obj\Debug\net10.0\refint\stringPracticeProblems.dll
+C:\Users\91995\Desktop\net\stringPracticeProblems\obj\Debug\net10.0\stringPracticeProblems.pdb
+C:\Users\91995\Desktop\net\stringPracticeProblems\obj\Debug\net10.0\stringPracticeProblems.genruntimeconfig.cache
+C:\Users\91995\Desktop\net\stringPracticeProblems\obj\Debug\net10.0\ref\stringPracticeProblems.dll

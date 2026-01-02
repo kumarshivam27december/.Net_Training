@@ -1,0 +1,15 @@
+C:\Users\91995\Desktop\net\MultiDimensional\bin\Debug\net10.0\MultiDimensional.exe
+C:\Users\91995\Desktop\net\MultiDimensional\bin\Debug\net10.0\MultiDimensional.deps.json
+C:\Users\91995\Desktop\net\MultiDimensional\bin\Debug\net10.0\MultiDimensional.runtimeconfig.json
+C:\Users\91995\Desktop\net\MultiDimensional\bin\Debug\net10.0\MultiDimensional.dll
+C:\Users\91995\Desktop\net\MultiDimensional\bin\Debug\net10.0\MultiDimensional.pdb
+C:\Users\91995\Desktop\net\MultiDimensional\obj\Debug\net10.0\MultiDimensional.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91995\Desktop\net\MultiDimensional\obj\Debug\net10.0\MultiDimensional.AssemblyInfoInputs.cache
+C:\Users\91995\Desktop\net\MultiDimensional\obj\Debug\net10.0\MultiDimensional.AssemblyInfo.cs
+C:\Users\91995\Desktop\net\MultiDimensional\obj\Debug\net10.0\MultiDimensional.csproj.CoreCompileInputs.cache
+C:\Users\91995\Desktop\net\MultiDimensional\obj\Debug\net10.0\MultiDimensional.sourcelink.json
+C:\Users\91995\Desktop\net\MultiDimensional\obj\Debug\net10.0\MultiDimensional.dll
+C:\Users\91995\Desktop\net\MultiDimensional\obj\Debug\net10.0\refint\MultiDimensional.dll
+C:\Users\91995\Desktop\net\MultiDimensional\obj\Debug\net10.0\MultiDimensional.pdb
+C:\Users\91995\Desktop\net\MultiDimensional\obj\Debug\net10.0\MultiDimensional.genruntimeconfig.cache
+C:\Users\91995\Desktop\net\MultiDimensional\obj\Debug\net10.0\ref\MultiDimensional.dll

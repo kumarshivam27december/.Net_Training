@@ -1,0 +1,15 @@
+C:\Users\91995\Desktop\net\RealStateCalculator\bin\Debug\net10.0\RealStateCalculator.exe
+C:\Users\91995\Desktop\net\RealStateCalculator\bin\Debug\net10.0\RealStateCalculator.deps.json
+C:\Users\91995\Desktop\net\RealStateCalculator\bin\Debug\net10.0\RealStateCalculator.runtimeconfig.json
+C:\Users\91995\Desktop\net\RealStateCalculator\bin\Debug\net10.0\RealStateCalculator.dll
+C:\Users\91995\Desktop\net\RealStateCalculator\bin\Debug\net10.0\RealStateCalculator.pdb
+C:\Users\91995\Desktop\net\RealStateCalculator\obj\Debug\net10.0\RealStateCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91995\Desktop\net\RealStateCalculator\obj\Debug\net10.0\RealStateCalculator.AssemblyInfoInputs.cache
+C:\Users\91995\Desktop\net\RealStateCalculator\obj\Debug\net10.0\RealStateCalculator.AssemblyInfo.cs
+C:\Users\91995\Desktop\net\RealStateCalculator\obj\Debug\net10.0\RealStateCalculator.csproj.CoreCompileInputs.cache
+C:\Users\91995\Desktop\net\RealStateCalculator\obj\Debug\net10.0\RealStateCalculator.sourcelink.json
+C:\Users\91995\Desktop\net\RealStateCalculator\obj\Debug\net10.0\RealStateCalculator.dll
+C:\Users\91995\Desktop\net\RealStateCalculator\obj\Debug\net10.0\refint\RealStateCalculator.dll
+C:\Users\91995\Desktop\net\RealStateCalculator\obj\Debug\net10.0\RealStateCalculator.pdb
+C:\Users\91995\Desktop\net\RealStateCalculator\obj\Debug\net10.0\RealStateCalculator.genruntimeconfig.cache
+C:\Users\91995\Desktop\net\RealStateCalculator\obj\Debug\net10.0\ref\RealStateCalculator.dll

@@ -1,0 +1,15 @@
+C:\Users\91995\Desktop\net\StringDemo\bin\Debug\net10.0\StringDemo.exe
+C:\Users\91995\Desktop\net\StringDemo\bin\Debug\net10.0\StringDemo.deps.json
+C:\Users\91995\Desktop\net\StringDemo\bin\Debug\net10.0\StringDemo.runtimeconfig.json
+C:\Users\91995\Desktop\net\StringDemo\bin\Debug\net10.0\StringDemo.dll
+C:\Users\91995\Desktop\net\StringDemo\bin\Debug\net10.0\StringDemo.pdb
+C:\Users\91995\Desktop\net\StringDemo\obj\Debug\net10.0\StringDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91995\Desktop\net\StringDemo\obj\Debug\net10.0\StringDemo.AssemblyInfoInputs.cache
+C:\Users\91995\Desktop\net\StringDemo\obj\Debug\net10.0\StringDemo.AssemblyInfo.cs
+C:\Users\91995\Desktop\net\StringDemo\obj\Debug\net10.0\StringDemo.csproj.CoreCompileInputs.cache
+C:\Users\91995\Desktop\net\StringDemo\obj\Debug\net10.0\StringDemo.sourcelink.json
+C:\Users\91995\Desktop\net\StringDemo\obj\Debug\net10.0\StringDemo.dll
+C:\Users\91995\Desktop\net\StringDemo\obj\Debug\net10.0\refint\StringDemo.dll
+C:\Users\91995\Desktop\net\StringDemo\obj\Debug\net10.0\StringDemo.pdb
+C:\Users\91995\Desktop\net\StringDemo\obj\Debug\net10.0\StringDemo.genruntimeconfig.cache
+C:\Users\91995\Desktop\net\StringDemo\obj\Debug\net10.0\ref\StringDemo.dll

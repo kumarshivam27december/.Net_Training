@@ -1,0 +1,15 @@
+C:\Users\91995\Desktop\net\ArrayListDemo\bin\Debug\net10.0\ArrayListDemo.exe
+C:\Users\91995\Desktop\net\ArrayListDemo\bin\Debug\net10.0\ArrayListDemo.deps.json
+C:\Users\91995\Desktop\net\ArrayListDemo\bin\Debug\net10.0\ArrayListDemo.runtimeconfig.json
+C:\Users\91995\Desktop\net\ArrayListDemo\bin\Debug\net10.0\ArrayListDemo.dll
+C:\Users\91995\Desktop\net\ArrayListDemo\bin\Debug\net10.0\ArrayListDemo.pdb
+C:\Users\91995\Desktop\net\ArrayListDemo\obj\Debug\net10.0\ArrayListDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91995\Desktop\net\ArrayListDemo\obj\Debug\net10.0\ArrayListDemo.AssemblyInfoInputs.cache
+C:\Users\91995\Desktop\net\ArrayListDemo\obj\Debug\net10.0\ArrayListDemo.AssemblyInfo.cs
+C:\Users\91995\Desktop\net\ArrayListDemo\obj\Debug\net10.0\ArrayListDemo.csproj.CoreCompileInputs.cache
+C:\Users\91995\Desktop\net\ArrayListDemo\obj\Debug\net10.0\ArrayListDemo.sourcelink.json
+C:\Users\91995\Desktop\net\ArrayListDemo\obj\Debug\net10.0\ArrayListDemo.dll
+C:\Users\91995\Desktop\net\ArrayListDemo\obj\Debug\net10.0\refint\ArrayListDemo.dll
+C:\Users\91995\Desktop\net\ArrayListDemo\obj\Debug\net10.0\ArrayListDemo.pdb
+C:\Users\91995\Desktop\net\ArrayListDemo\obj\Debug\net10.0\ArrayListDemo.genruntimeconfig.cache
+C:\Users\91995\Desktop\net\ArrayListDemo\obj\Debug\net10.0\ref\ArrayListDemo.dll
