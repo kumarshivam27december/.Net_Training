@@ -1,0 +1,15 @@
+C:\Users\91995\Desktop\net\CaseBasedExceptionHandlingProblems\bin\Debug\net10.0\CaseBasedExceptionHandlingProblems.exe
+C:\Users\91995\Desktop\net\CaseBasedExceptionHandlingProblems\bin\Debug\net10.0\CaseBasedExceptionHandlingProblems.deps.json
+C:\Users\91995\Desktop\net\CaseBasedExceptionHandlingProblems\bin\Debug\net10.0\CaseBasedExceptionHandlingProblems.runtimeconfig.json
+C:\Users\91995\Desktop\net\CaseBasedExceptionHandlingProblems\bin\Debug\net10.0\CaseBasedExceptionHandlingProblems.dll
+C:\Users\91995\Desktop\net\CaseBasedExceptionHandlingProblems\bin\Debug\net10.0\CaseBasedExceptionHandlingProblems.pdb
+C:\Users\91995\Desktop\net\CaseBasedExceptionHandlingProblems\obj\Debug\net10.0\CaseBasedExceptionHandlingProblems.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91995\Desktop\net\CaseBasedExceptionHandlingProblems\obj\Debug\net10.0\CaseBasedExceptionHandlingProblems.AssemblyInfoInputs.cache
+C:\Users\91995\Desktop\net\CaseBasedExceptionHandlingProblems\obj\Debug\net10.0\CaseBasedExceptionHandlingProblems.AssemblyInfo.cs
+C:\Users\91995\Desktop\net\CaseBasedExceptionHandlingProblems\obj\Debug\net10.0\CaseBasedExceptionHandlingProblems.csproj.CoreCompileInputs.cache
+C:\Users\91995\Desktop\net\CaseBasedExceptionHandlingProblems\obj\Debug\net10.0\CaseBasedExceptionHandlingProblems.sourcelink.json
+C:\Users\91995\Desktop\net\CaseBasedExceptionHandlingProblems\obj\Debug\net10.0\CaseBasedExceptionHandlingProblems.dll
+C:\Users\91995\Desktop\net\CaseBasedExceptionHandlingProblems\obj\Debug\net10.0\refint\CaseBasedExceptionHandlingProblems.dll
+C:\Users\91995\Desktop\net\CaseBasedExceptionHandlingProblems\obj\Debug\net10.0\CaseBasedExceptionHandlingProblems.pdb
+C:\Users\91995\Desktop\net\CaseBasedExceptionHandlingProblems\obj\Debug\net10.0\CaseBasedExceptionHandlingProblems.genruntimeconfig.cache
+C:\Users\91995\Desktop\net\CaseBasedExceptionHandlingProblems\obj\Debug\net10.0\ref\CaseBasedExceptionHandlingProblems.dll

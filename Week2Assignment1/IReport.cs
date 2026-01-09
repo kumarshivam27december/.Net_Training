@@ -1,0 +1,4 @@
+interface IReport
+{
+    string GetAllSummary();
+}

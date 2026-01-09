@@ -1,0 +1,15 @@
+C:\Users\91995\Desktop\net\CollectionsScenarioBasedProblems\bin\Debug\net10.0\CollectionsScenarioBasedProblems.exe
+C:\Users\91995\Desktop\net\CollectionsScenarioBasedProblems\bin\Debug\net10.0\CollectionsScenarioBasedProblems.deps.json
+C:\Users\91995\Desktop\net\CollectionsScenarioBasedProblems\bin\Debug\net10.0\CollectionsScenarioBasedProblems.runtimeconfig.json
+C:\Users\91995\Desktop\net\CollectionsScenarioBasedProblems\bin\Debug\net10.0\CollectionsScenarioBasedProblems.dll
+C:\Users\91995\Desktop\net\CollectionsScenarioBasedProblems\bin\Debug\net10.0\CollectionsScenarioBasedProblems.pdb
+C:\Users\91995\Desktop\net\CollectionsScenarioBasedProblems\obj\Debug\net10.0\CollectionsScenarioBasedProblems.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91995\Desktop\net\CollectionsScenarioBasedProblems\obj\Debug\net10.0\CollectionsScenarioBasedProblems.AssemblyInfoInputs.cache
+C:\Users\91995\Desktop\net\CollectionsScenarioBasedProblems\obj\Debug\net10.0\CollectionsScenarioBasedProblems.AssemblyInfo.cs
+C:\Users\91995\Desktop\net\CollectionsScenarioBasedProblems\obj\Debug\net10.0\CollectionsScenarioBasedProblems.csproj.CoreCompileInputs.cache
+C:\Users\91995\Desktop\net\CollectionsScenarioBasedProblems\obj\Debug\net10.0\CollectionsScenarioBasedProblems.sourcelink.json
+C:\Users\91995\Desktop\net\CollectionsScenarioBasedProblems\obj\Debug\net10.0\CollectionsScenarioBasedProblems.dll
+C:\Users\91995\Desktop\net\CollectionsScenarioBasedProblems\obj\Debug\net10.0\refint\CollectionsScenarioBasedProblems.dll
+C:\Users\91995\Desktop\net\CollectionsScenarioBasedProblems\obj\Debug\net10.0\CollectionsScenarioBasedProblems.pdb
+C:\Users\91995\Desktop\net\CollectionsScenarioBasedProblems\obj\Debug\net10.0\CollectionsScenarioBasedProblems.genruntimeconfig.cache
+C:\Users\91995\Desktop\net\CollectionsScenarioBasedProblems\obj\Debug\net10.0\ref\CollectionsScenarioBasedProblems.dll

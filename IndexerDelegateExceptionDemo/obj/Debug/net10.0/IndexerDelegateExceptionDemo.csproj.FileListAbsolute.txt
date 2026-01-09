@@ -1,0 +1,15 @@
+C:\Users\91995\Desktop\net\IndexerDelegateExceptionDemo\bin\Debug\net10.0\IndexerDelegateExceptionDemo.exe
+C:\Users\91995\Desktop\net\IndexerDelegateExceptionDemo\bin\Debug\net10.0\IndexerDelegateExceptionDemo.deps.json
+C:\Users\91995\Desktop\net\IndexerDelegateExceptionDemo\bin\Debug\net10.0\IndexerDelegateExceptionDemo.runtimeconfig.json
+C:\Users\91995\Desktop\net\IndexerDelegateExceptionDemo\bin\Debug\net10.0\IndexerDelegateExceptionDemo.dll
+C:\Users\91995\Desktop\net\IndexerDelegateExceptionDemo\bin\Debug\net10.0\IndexerDelegateExceptionDemo.pdb
+C:\Users\91995\Desktop\net\IndexerDelegateExceptionDemo\obj\Debug\net10.0\IndexerDelegateExceptionDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91995\Desktop\net\IndexerDelegateExceptionDemo\obj\Debug\net10.0\IndexerDelegateExceptionDemo.AssemblyInfoInputs.cache
+C:\Users\91995\Desktop\net\IndexerDelegateExceptionDemo\obj\Debug\net10.0\IndexerDelegateExceptionDemo.AssemblyInfo.cs
+C:\Users\91995\Desktop\net\IndexerDelegateExceptionDemo\obj\Debug\net10.0\IndexerDelegateExceptionDemo.csproj.CoreCompileInputs.cache
+C:\Users\91995\Desktop\net\IndexerDelegateExceptionDemo\obj\Debug\net10.0\IndexerDelegateExceptionDemo.sourcelink.json
+C:\Users\91995\Desktop\net\IndexerDelegateExceptionDemo\obj\Debug\net10.0\IndexerDelegateExceptionDemo.dll
+C:\Users\91995\Desktop\net\IndexerDelegateExceptionDemo\obj\Debug\net10.0\refint\IndexerDelegateExceptionDemo.dll
+C:\Users\91995\Desktop\net\IndexerDelegateExceptionDemo\obj\Debug\net10.0\IndexerDelegateExceptionDemo.pdb
+C:\Users\91995\Desktop\net\IndexerDelegateExceptionDemo\obj\Debug\net10.0\IndexerDelegateExceptionDemo.genruntimeconfig.cache
+C:\Users\91995\Desktop\net\IndexerDelegateExceptionDemo\obj\Debug\net10.0\ref\IndexerDelegateExceptionDemo.dll
