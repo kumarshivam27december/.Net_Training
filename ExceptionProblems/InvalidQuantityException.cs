@@ -1,12 +1,12 @@
 class InvalidQuantityException : SystemException
 {
-    public InvalidQuantityException(string str)
+    public InvalidQuantityException(string message)
     {
-        Console.WriteLine($"custom invalid {str}");
+        Console.WriteLine($"{message}"); 
     }
 
     public InvalidQuantityException()
     {
-        Console.WriteLine("default constructor invalid quantity");
+        Console.WriteLine("Error: Quantity must be greater than zero.");
     }
 }

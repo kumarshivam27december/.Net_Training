@@ -1,0 +1,15 @@
+C:\Users\91995\Desktop\net\ExceptionProblems\bin\Debug\net10.0\ExceptionProblems.exe
+C:\Users\91995\Desktop\net\ExceptionProblems\bin\Debug\net10.0\ExceptionProblems.deps.json
+C:\Users\91995\Desktop\net\ExceptionProblems\bin\Debug\net10.0\ExceptionProblems.runtimeconfig.json
+C:\Users\91995\Desktop\net\ExceptionProblems\bin\Debug\net10.0\ExceptionProblems.dll
+C:\Users\91995\Desktop\net\ExceptionProblems\bin\Debug\net10.0\ExceptionProblems.pdb
+C:\Users\91995\Desktop\net\ExceptionProblems\obj\Debug\net10.0\ExceptionProblems.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91995\Desktop\net\ExceptionProblems\obj\Debug\net10.0\ExceptionProblems.AssemblyInfoInputs.cache
+C:\Users\91995\Desktop\net\ExceptionProblems\obj\Debug\net10.0\ExceptionProblems.AssemblyInfo.cs
+C:\Users\91995\Desktop\net\ExceptionProblems\obj\Debug\net10.0\ExceptionProblems.csproj.CoreCompileInputs.cache
+C:\Users\91995\Desktop\net\ExceptionProblems\obj\Debug\net10.0\ExceptionProblems.sourcelink.json
+C:\Users\91995\Desktop\net\ExceptionProblems\obj\Debug\net10.0\ExceptionProblems.dll
+C:\Users\91995\Desktop\net\ExceptionProblems\obj\Debug\net10.0\refint\ExceptionProblems.dll
+C:\Users\91995\Desktop\net\ExceptionProblems\obj\Debug\net10.0\ExceptionProblems.pdb
+C:\Users\91995\Desktop\net\ExceptionProblems\obj\Debug\net10.0\ExceptionProblems.genruntimeconfig.cache
+C:\Users\91995\Desktop\net\ExceptionProblems\obj\Debug\net10.0\ref\ExceptionProblems.dll

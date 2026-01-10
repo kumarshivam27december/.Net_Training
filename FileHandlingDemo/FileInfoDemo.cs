@@ -1,3 +1,4 @@
+using System.Data.SqlTypes;
 using System.IO;
 class FileInfoDemo
 {
@@ -31,6 +32,7 @@ class FileInfoDemo
         Console.WriteLine($"{path} was copied to {path2}");
         */
 
+        /*
         string path = @"Data1\Test.txt";
         string path2 = @"Data2\newTest1.txt";
         FileInfo fi1 = new FileInfo(path);
@@ -38,6 +40,41 @@ class FileInfoDemo
 
         fi1.MoveTo(path2);
         Console.WriteLine($"{path} was copied to {path2}");
+        */
+
+
+        /*
+
+        FileInfo f1 = new FileInfo(@"Data1\NewFile1.txt");
+        StreamWriter streamWriter =  f1.AppendText();
+        streamWriter.WriteLine("this");
+        streamWriter.WriteLine("is");
+        streamWriter.WriteLine("extra");
+
+        Console.WriteLine("file has been appended successfully");
+        streamWriter.Close();
+
+
+        */
+
+
+
+        FileInfo f1 = new FileInfo(@"employee.dat");
+        StreamReader sr = f1.OpenText();
+        string s= "";
+        while ((s = sr.ReadLine()) != null)
+        {
+            Console.WriteLine(s);
+        }
+
+        // FileInfo fi = new FileInfo(@"Data2\NewTest1.txt");
+        // Console.WriteLine("File name is {0}",fi.Name);
+        // Console.WriteLine("File created at {0}",fi.CreationTime);
+        // Console.WriteLine("File length is {0}",fi.Length);
+        // Console.WriteLine("File extension is {0}",fi.Extension);
+        // Console.WriteLine("File exist is {0}",fi.Exists);
         
+               
+
     }
 }

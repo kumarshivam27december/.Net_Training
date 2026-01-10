@@ -1,12 +1,12 @@
-class InvalidPriceException : SystemException
+class InvalidPriceException : SystemException 
 {
-    public InvalidPriceException(string str)
+    public InvalidPriceException(string message)
     {
-        Console.WriteLine($"custom message is {str}");
+        Console.WriteLine($"{message}");
     }
 
     public InvalidPriceException()
     {
-        Console.WriteLine("default constructor is called");
+        Console.WriteLine("Error: Price must be greater than zero");
     }
 }

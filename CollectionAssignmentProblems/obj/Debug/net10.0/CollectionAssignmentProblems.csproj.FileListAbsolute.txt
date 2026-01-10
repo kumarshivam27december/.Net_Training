@@ -1,0 +1,15 @@
+C:\Users\91995\Desktop\net\CollectionAssignmentProblems\bin\Debug\net10.0\CollectionAssignmentProblems.exe
+C:\Users\91995\Desktop\net\CollectionAssignmentProblems\bin\Debug\net10.0\CollectionAssignmentProblems.deps.json
+C:\Users\91995\Desktop\net\CollectionAssignmentProblems\bin\Debug\net10.0\CollectionAssignmentProblems.runtimeconfig.json
+C:\Users\91995\Desktop\net\CollectionAssignmentProblems\bin\Debug\net10.0\CollectionAssignmentProblems.dll
+C:\Users\91995\Desktop\net\CollectionAssignmentProblems\bin\Debug\net10.0\CollectionAssignmentProblems.pdb
+C:\Users\91995\Desktop\net\CollectionAssignmentProblems\obj\Debug\net10.0\CollectionAssignmentProblems.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91995\Desktop\net\CollectionAssignmentProblems\obj\Debug\net10.0\CollectionAssignmentProblems.AssemblyInfoInputs.cache
+C:\Users\91995\Desktop\net\CollectionAssignmentProblems\obj\Debug\net10.0\CollectionAssignmentProblems.AssemblyInfo.cs
+C:\Users\91995\Desktop\net\CollectionAssignmentProblems\obj\Debug\net10.0\CollectionAssignmentProblems.csproj.CoreCompileInputs.cache
+C:\Users\91995\Desktop\net\CollectionAssignmentProblems\obj\Debug\net10.0\CollectionAssignmentProblems.sourcelink.json
+C:\Users\91995\Desktop\net\CollectionAssignmentProblems\obj\Debug\net10.0\CollectionAssignmentProblems.dll
+C:\Users\91995\Desktop\net\CollectionAssignmentProblems\obj\Debug\net10.0\refint\CollectionAssignmentProblems.dll
+C:\Users\91995\Desktop\net\CollectionAssignmentProblems\obj\Debug\net10.0\CollectionAssignmentProblems.pdb
+C:\Users\91995\Desktop\net\CollectionAssignmentProblems\obj\Debug\net10.0\CollectionAssignmentProblems.genruntimeconfig.cache
+C:\Users\91995\Desktop\net\CollectionAssignmentProblems\obj\Debug\net10.0\ref\CollectionAssignmentProblems.dll

@@ -1,0 +1,15 @@
+C:\Users\91995\Desktop\net\MusicStoreAlbumCollection\bin\Debug\net10.0\MusicStoreAlbumCollection.exe
+C:\Users\91995\Desktop\net\MusicStoreAlbumCollection\bin\Debug\net10.0\MusicStoreAlbumCollection.deps.json
+C:\Users\91995\Desktop\net\MusicStoreAlbumCollection\bin\Debug\net10.0\MusicStoreAlbumCollection.runtimeconfig.json
+C:\Users\91995\Desktop\net\MusicStoreAlbumCollection\bin\Debug\net10.0\MusicStoreAlbumCollection.dll
+C:\Users\91995\Desktop\net\MusicStoreAlbumCollection\bin\Debug\net10.0\MusicStoreAlbumCollection.pdb
+C:\Users\91995\Desktop\net\MusicStoreAlbumCollection\obj\Debug\net10.0\MusicStoreAlbumCollection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91995\Desktop\net\MusicStoreAlbumCollection\obj\Debug\net10.0\MusicStoreAlbumCollection.AssemblyInfoInputs.cache
+C:\Users\91995\Desktop\net\MusicStoreAlbumCollection\obj\Debug\net10.0\MusicStoreAlbumCollection.AssemblyInfo.cs
+C:\Users\91995\Desktop\net\MusicStoreAlbumCollection\obj\Debug\net10.0\MusicStoreAlbumCollection.csproj.CoreCompileInputs.cache
+C:\Users\91995\Desktop\net\MusicStoreAlbumCollection\obj\Debug\net10.0\MusicStoreAlbumCollection.sourcelink.json
+C:\Users\91995\Desktop\net\MusicStoreAlbumCollection\obj\Debug\net10.0\MusicStoreAlbumCollection.dll
+C:\Users\91995\Desktop\net\MusicStoreAlbumCollection\obj\Debug\net10.0\refint\MusicStoreAlbumCollection.dll
+C:\Users\91995\Desktop\net\MusicStoreAlbumCollection\obj\Debug\net10.0\MusicStoreAlbumCollection.pdb
+C:\Users\91995\Desktop\net\MusicStoreAlbumCollection\obj\Debug\net10.0\MusicStoreAlbumCollection.genruntimeconfig.cache
+C:\Users\91995\Desktop\net\MusicStoreAlbumCollection\obj\Debug\net10.0\ref\MusicStoreAlbumCollection.dll
