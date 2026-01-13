@@ -1,0 +1,15 @@
+C:\Users\91995\Desktop\net\SimpleCalculatorUsingDelegateProblem\bin\Debug\net10.0\SimpleCalculatorUsingDelegateProblem.exe
+C:\Users\91995\Desktop\net\SimpleCalculatorUsingDelegateProblem\bin\Debug\net10.0\SimpleCalculatorUsingDelegateProblem.deps.json
+C:\Users\91995\Desktop\net\SimpleCalculatorUsingDelegateProblem\bin\Debug\net10.0\SimpleCalculatorUsingDelegateProblem.runtimeconfig.json
+C:\Users\91995\Desktop\net\SimpleCalculatorUsingDelegateProblem\bin\Debug\net10.0\SimpleCalculatorUsingDelegateProblem.dll
+C:\Users\91995\Desktop\net\SimpleCalculatorUsingDelegateProblem\bin\Debug\net10.0\SimpleCalculatorUsingDelegateProblem.pdb
+C:\Users\91995\Desktop\net\SimpleCalculatorUsingDelegateProblem\obj\Debug\net10.0\SimpleCalculatorUsingDelegateProblem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91995\Desktop\net\SimpleCalculatorUsingDelegateProblem\obj\Debug\net10.0\SimpleCalculatorUsingDelegateProblem.AssemblyInfoInputs.cache
+C:\Users\91995\Desktop\net\SimpleCalculatorUsingDelegateProblem\obj\Debug\net10.0\SimpleCalculatorUsingDelegateProblem.AssemblyInfo.cs
+C:\Users\91995\Desktop\net\SimpleCalculatorUsingDelegateProblem\obj\Debug\net10.0\SimpleCalculatorUsingDelegateProblem.csproj.CoreCompileInputs.cache
+C:\Users\91995\Desktop\net\SimpleCalculatorUsingDelegateProblem\obj\Debug\net10.0\SimpleCalculatorUsingDelegateProblem.sourcelink.json
+C:\Users\91995\Desktop\net\SimpleCalculatorUsingDelegateProblem\obj\Debug\net10.0\SimpleCalculatorUsingDelegateProblem.dll
+C:\Users\91995\Desktop\net\SimpleCalculatorUsingDelegateProblem\obj\Debug\net10.0\refint\SimpleCalculatorUsingDelegateProblem.dll
+C:\Users\91995\Desktop\net\SimpleCalculatorUsingDelegateProblem\obj\Debug\net10.0\SimpleCalculatorUsingDelegateProblem.pdb
+C:\Users\91995\Desktop\net\SimpleCalculatorUsingDelegateProblem\obj\Debug\net10.0\SimpleCalculatorUsingDelegateProblem.genruntimeconfig.cache
+C:\Users\91995\Desktop\net\SimpleCalculatorUsingDelegateProblem\obj\Debug\net10.0\ref\SimpleCalculatorUsingDelegateProblem.dll

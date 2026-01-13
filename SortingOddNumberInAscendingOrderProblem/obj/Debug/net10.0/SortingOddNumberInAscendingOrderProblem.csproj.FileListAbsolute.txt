@@ -1,0 +1,15 @@
+C:\Users\91995\Desktop\net\SortingOddNumberInAscendingOrderProblem\bin\Debug\net10.0\SortingOddNumberInAscendingOrderProblem.exe
+C:\Users\91995\Desktop\net\SortingOddNumberInAscendingOrderProblem\bin\Debug\net10.0\SortingOddNumberInAscendingOrderProblem.deps.json
+C:\Users\91995\Desktop\net\SortingOddNumberInAscendingOrderProblem\bin\Debug\net10.0\SortingOddNumberInAscendingOrderProblem.runtimeconfig.json
+C:\Users\91995\Desktop\net\SortingOddNumberInAscendingOrderProblem\bin\Debug\net10.0\SortingOddNumberInAscendingOrderProblem.dll
+C:\Users\91995\Desktop\net\SortingOddNumberInAscendingOrderProblem\bin\Debug\net10.0\SortingOddNumberInAscendingOrderProblem.pdb
+C:\Users\91995\Desktop\net\SortingOddNumberInAscendingOrderProblem\obj\Debug\net10.0\SortingOddNumberInAscendingOrderProblem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91995\Desktop\net\SortingOddNumberInAscendingOrderProblem\obj\Debug\net10.0\SortingOddNumberInAscendingOrderProblem.AssemblyInfoInputs.cache
+C:\Users\91995\Desktop\net\SortingOddNumberInAscendingOrderProblem\obj\Debug\net10.0\SortingOddNumberInAscendingOrderProblem.AssemblyInfo.cs
+C:\Users\91995\Desktop\net\SortingOddNumberInAscendingOrderProblem\obj\Debug\net10.0\SortingOddNumberInAscendingOrderProblem.csproj.CoreCompileInputs.cache
+C:\Users\91995\Desktop\net\SortingOddNumberInAscendingOrderProblem\obj\Debug\net10.0\SortingOddNumberInAscendingOrderProblem.sourcelink.json
+C:\Users\91995\Desktop\net\SortingOddNumberInAscendingOrderProblem\obj\Debug\net10.0\SortingOddNumberInAscendingOrderProblem.dll
+C:\Users\91995\Desktop\net\SortingOddNumberInAscendingOrderProblem\obj\Debug\net10.0\refint\SortingOddNumberInAscendingOrderProblem.dll
+C:\Users\91995\Desktop\net\SortingOddNumberInAscendingOrderProblem\obj\Debug\net10.0\SortingOddNumberInAscendingOrderProblem.pdb
+C:\Users\91995\Desktop\net\SortingOddNumberInAscendingOrderProblem\obj\Debug\net10.0\SortingOddNumberInAscendingOrderProblem.genruntimeconfig.cache
+C:\Users\91995\Desktop\net\SortingOddNumberInAscendingOrderProblem\obj\Debug\net10.0\ref\SortingOddNumberInAscendingOrderProblem.dll

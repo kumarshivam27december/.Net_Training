@@ -1,0 +1,15 @@
+C:\Users\91995\Desktop\net\GymStreamMembershipValidationSystemProblem\bin\Debug\net10.0\GymStreamMembershipValidationSystemProblem.exe
+C:\Users\91995\Desktop\net\GymStreamMembershipValidationSystemProblem\bin\Debug\net10.0\GymStreamMembershipValidationSystemProblem.deps.json
+C:\Users\91995\Desktop\net\GymStreamMembershipValidationSystemProblem\bin\Debug\net10.0\GymStreamMembershipValidationSystemProblem.runtimeconfig.json
+C:\Users\91995\Desktop\net\GymStreamMembershipValidationSystemProblem\bin\Debug\net10.0\GymStreamMembershipValidationSystemProblem.dll
+C:\Users\91995\Desktop\net\GymStreamMembershipValidationSystemProblem\bin\Debug\net10.0\GymStreamMembershipValidationSystemProblem.pdb
+C:\Users\91995\Desktop\net\GymStreamMembershipValidationSystemProblem\obj\Debug\net10.0\GymStreamMembershipValidationSystemProblem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91995\Desktop\net\GymStreamMembershipValidationSystemProblem\obj\Debug\net10.0\GymStreamMembershipValidationSystemProblem.AssemblyInfoInputs.cache
+C:\Users\91995\Desktop\net\GymStreamMembershipValidationSystemProblem\obj\Debug\net10.0\GymStreamMembershipValidationSystemProblem.AssemblyInfo.cs
+C:\Users\91995\Desktop\net\GymStreamMembershipValidationSystemProblem\obj\Debug\net10.0\GymStreamMembershipValidationSystemProblem.csproj.CoreCompileInputs.cache
+C:\Users\91995\Desktop\net\GymStreamMembershipValidationSystemProblem\obj\Debug\net10.0\GymStreamMembershipValidationSystemProblem.sourcelink.json
+C:\Users\91995\Desktop\net\GymStreamMembershipValidationSystemProblem\obj\Debug\net10.0\GymStreamMembershipValidationSystemProblem.dll
+C:\Users\91995\Desktop\net\GymStreamMembershipValidationSystemProblem\obj\Debug\net10.0\refint\GymStreamMembershipValidationSystemProblem.dll
+C:\Users\91995\Desktop\net\GymStreamMembershipValidationSystemProblem\obj\Debug\net10.0\GymStreamMembershipValidationSystemProblem.pdb
+C:\Users\91995\Desktop\net\GymStreamMembershipValidationSystemProblem\obj\Debug\net10.0\GymStreamMembershipValidationSystemProblem.genruntimeconfig.cache
+C:\Users\91995\Desktop\net\GymStreamMembershipValidationSystemProblem\obj\Debug\net10.0\ref\GymStreamMembershipValidationSystemProblem.dll

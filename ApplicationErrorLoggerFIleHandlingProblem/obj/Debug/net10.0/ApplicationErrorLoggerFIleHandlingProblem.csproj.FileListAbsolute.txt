@@ -1,0 +1,15 @@
+C:\Users\91995\Desktop\net\ApplicationErrorLoggerFIleHandlingProblem\bin\Debug\net10.0\ApplicationErrorLoggerFIleHandlingProblem.exe
+C:\Users\91995\Desktop\net\ApplicationErrorLoggerFIleHandlingProblem\bin\Debug\net10.0\ApplicationErrorLoggerFIleHandlingProblem.deps.json
+C:\Users\91995\Desktop\net\ApplicationErrorLoggerFIleHandlingProblem\bin\Debug\net10.0\ApplicationErrorLoggerFIleHandlingProblem.runtimeconfig.json
+C:\Users\91995\Desktop\net\ApplicationErrorLoggerFIleHandlingProblem\bin\Debug\net10.0\ApplicationErrorLoggerFIleHandlingProblem.dll
+C:\Users\91995\Desktop\net\ApplicationErrorLoggerFIleHandlingProblem\bin\Debug\net10.0\ApplicationErrorLoggerFIleHandlingProblem.pdb
+C:\Users\91995\Desktop\net\ApplicationErrorLoggerFIleHandlingProblem\obj\Debug\net10.0\ApplicationErrorLoggerFIleHandlingProblem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91995\Desktop\net\ApplicationErrorLoggerFIleHandlingProblem\obj\Debug\net10.0\ApplicationErrorLoggerFIleHandlingProblem.AssemblyInfoInputs.cache
+C:\Users\91995\Desktop\net\ApplicationErrorLoggerFIleHandlingProblem\obj\Debug\net10.0\ApplicationErrorLoggerFIleHandlingProblem.AssemblyInfo.cs
+C:\Users\91995\Desktop\net\ApplicationErrorLoggerFIleHandlingProblem\obj\Debug\net10.0\ApplicationErrorLoggerFIleHandlingProblem.csproj.CoreCompileInputs.cache
+C:\Users\91995\Desktop\net\ApplicationErrorLoggerFIleHandlingProblem\obj\Debug\net10.0\ApplicationErrorLoggerFIleHandlingProblem.sourcelink.json
+C:\Users\91995\Desktop\net\ApplicationErrorLoggerFIleHandlingProblem\obj\Debug\net10.0\ApplicationErrorLoggerFIleHandlingProblem.dll
+C:\Users\91995\Desktop\net\ApplicationErrorLoggerFIleHandlingProblem\obj\Debug\net10.0\refint\ApplicationErrorLoggerFIleHandlingProblem.dll
+C:\Users\91995\Desktop\net\ApplicationErrorLoggerFIleHandlingProblem\obj\Debug\net10.0\ApplicationErrorLoggerFIleHandlingProblem.pdb
+C:\Users\91995\Desktop\net\ApplicationErrorLoggerFIleHandlingProblem\obj\Debug\net10.0\ApplicationErrorLoggerFIleHandlingProblem.genruntimeconfig.cache
+C:\Users\91995\Desktop\net\ApplicationErrorLoggerFIleHandlingProblem\obj\Debug\net10.0\ref\ApplicationErrorLoggerFIleHandlingProblem.dll

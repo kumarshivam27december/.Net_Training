@@ -1,0 +1,15 @@
+C:\Users\91995\Desktop\net\BankingTransactionModuleProblem\bin\Debug\net10.0\BankingTransactionModuleProblem.exe
+C:\Users\91995\Desktop\net\BankingTransactionModuleProblem\bin\Debug\net10.0\BankingTransactionModuleProblem.deps.json
+C:\Users\91995\Desktop\net\BankingTransactionModuleProblem\bin\Debug\net10.0\BankingTransactionModuleProblem.runtimeconfig.json
+C:\Users\91995\Desktop\net\BankingTransactionModuleProblem\bin\Debug\net10.0\BankingTransactionModuleProblem.dll
+C:\Users\91995\Desktop\net\BankingTransactionModuleProblem\bin\Debug\net10.0\BankingTransactionModuleProblem.pdb
+C:\Users\91995\Desktop\net\BankingTransactionModuleProblem\obj\Debug\net10.0\BankingTransactionModuleProblem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91995\Desktop\net\BankingTransactionModuleProblem\obj\Debug\net10.0\BankingTransactionModuleProblem.AssemblyInfoInputs.cache
+C:\Users\91995\Desktop\net\BankingTransactionModuleProblem\obj\Debug\net10.0\BankingTransactionModuleProblem.AssemblyInfo.cs
+C:\Users\91995\Desktop\net\BankingTransactionModuleProblem\obj\Debug\net10.0\BankingTransactionModuleProblem.csproj.CoreCompileInputs.cache
+C:\Users\91995\Desktop\net\BankingTransactionModuleProblem\obj\Debug\net10.0\BankingTransactionModuleProblem.sourcelink.json
+C:\Users\91995\Desktop\net\BankingTransactionModuleProblem\obj\Debug\net10.0\BankingTransactionModuleProblem.dll
+C:\Users\91995\Desktop\net\BankingTransactionModuleProblem\obj\Debug\net10.0\refint\BankingTransactionModuleProblem.dll
+C:\Users\91995\Desktop\net\BankingTransactionModuleProblem\obj\Debug\net10.0\BankingTransactionModuleProblem.pdb
+C:\Users\91995\Desktop\net\BankingTransactionModuleProblem\obj\Debug\net10.0\BankingTransactionModuleProblem.genruntimeconfig.cache
+C:\Users\91995\Desktop\net\BankingTransactionModuleProblem\obj\Debug\net10.0\ref\BankingTransactionModuleProblem.dll

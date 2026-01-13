@@ -1,0 +1,15 @@
+C:\Users\91995\Desktop\net\SquareAndSortIntegerList\bin\Debug\net10.0\SquareAndSortIntegerList.exe
+C:\Users\91995\Desktop\net\SquareAndSortIntegerList\bin\Debug\net10.0\SquareAndSortIntegerList.deps.json
+C:\Users\91995\Desktop\net\SquareAndSortIntegerList\bin\Debug\net10.0\SquareAndSortIntegerList.runtimeconfig.json
+C:\Users\91995\Desktop\net\SquareAndSortIntegerList\bin\Debug\net10.0\SquareAndSortIntegerList.dll
+C:\Users\91995\Desktop\net\SquareAndSortIntegerList\bin\Debug\net10.0\SquareAndSortIntegerList.pdb
+C:\Users\91995\Desktop\net\SquareAndSortIntegerList\obj\Debug\net10.0\SquareAndSortIntegerList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91995\Desktop\net\SquareAndSortIntegerList\obj\Debug\net10.0\SquareAndSortIntegerList.AssemblyInfoInputs.cache
+C:\Users\91995\Desktop\net\SquareAndSortIntegerList\obj\Debug\net10.0\SquareAndSortIntegerList.AssemblyInfo.cs
+C:\Users\91995\Desktop\net\SquareAndSortIntegerList\obj\Debug\net10.0\SquareAndSortIntegerList.csproj.CoreCompileInputs.cache
+C:\Users\91995\Desktop\net\SquareAndSortIntegerList\obj\Debug\net10.0\SquareAndSortIntegerList.sourcelink.json
+C:\Users\91995\Desktop\net\SquareAndSortIntegerList\obj\Debug\net10.0\SquareAndSortIntegerList.dll
+C:\Users\91995\Desktop\net\SquareAndSortIntegerList\obj\Debug\net10.0\refint\SquareAndSortIntegerList.dll
+C:\Users\91995\Desktop\net\SquareAndSortIntegerList\obj\Debug\net10.0\SquareAndSortIntegerList.pdb
+C:\Users\91995\Desktop\net\SquareAndSortIntegerList\obj\Debug\net10.0\SquareAndSortIntegerList.genruntimeconfig.cache
+C:\Users\91995\Desktop\net\SquareAndSortIntegerList\obj\Debug\net10.0\ref\SquareAndSortIntegerList.dll

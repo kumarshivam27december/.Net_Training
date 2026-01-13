@@ -1,0 +1,15 @@
+C:\Users\91995\Desktop\net\StudentAttendenceLoggerProblem\bin\Debug\net10.0\StudentAttendenceLoggerProblem.exe
+C:\Users\91995\Desktop\net\StudentAttendenceLoggerProblem\bin\Debug\net10.0\StudentAttendenceLoggerProblem.deps.json
+C:\Users\91995\Desktop\net\StudentAttendenceLoggerProblem\bin\Debug\net10.0\StudentAttendenceLoggerProblem.runtimeconfig.json
+C:\Users\91995\Desktop\net\StudentAttendenceLoggerProblem\bin\Debug\net10.0\StudentAttendenceLoggerProblem.dll
+C:\Users\91995\Desktop\net\StudentAttendenceLoggerProblem\bin\Debug\net10.0\StudentAttendenceLoggerProblem.pdb
+C:\Users\91995\Desktop\net\StudentAttendenceLoggerProblem\obj\Debug\net10.0\StudentAttendenceLoggerProblem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91995\Desktop\net\StudentAttendenceLoggerProblem\obj\Debug\net10.0\StudentAttendenceLoggerProblem.AssemblyInfoInputs.cache
+C:\Users\91995\Desktop\net\StudentAttendenceLoggerProblem\obj\Debug\net10.0\StudentAttendenceLoggerProblem.AssemblyInfo.cs
+C:\Users\91995\Desktop\net\StudentAttendenceLoggerProblem\obj\Debug\net10.0\StudentAttendenceLoggerProblem.csproj.CoreCompileInputs.cache
+C:\Users\91995\Desktop\net\StudentAttendenceLoggerProblem\obj\Debug\net10.0\StudentAttendenceLoggerProblem.sourcelink.json
+C:\Users\91995\Desktop\net\StudentAttendenceLoggerProblem\obj\Debug\net10.0\StudentAttendenceLoggerProblem.dll
+C:\Users\91995\Desktop\net\StudentAttendenceLoggerProblem\obj\Debug\net10.0\refint\StudentAttendenceLoggerProblem.dll
+C:\Users\91995\Desktop\net\StudentAttendenceLoggerProblem\obj\Debug\net10.0\StudentAttendenceLoggerProblem.pdb
+C:\Users\91995\Desktop\net\StudentAttendenceLoggerProblem\obj\Debug\net10.0\StudentAttendenceLoggerProblem.genruntimeconfig.cache
+C:\Users\91995\Desktop\net\StudentAttendenceLoggerProblem\obj\Debug\net10.0\ref\StudentAttendenceLoggerProblem.dll

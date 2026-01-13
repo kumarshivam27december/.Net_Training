@@ -1,0 +1,15 @@
+C:\Users\91995\Desktop\net\AnonymousExtensionDemo\bin\Debug\net10.0\AnonymousExtensionDemo.exe
+C:\Users\91995\Desktop\net\AnonymousExtensionDemo\bin\Debug\net10.0\AnonymousExtensionDemo.deps.json
+C:\Users\91995\Desktop\net\AnonymousExtensionDemo\bin\Debug\net10.0\AnonymousExtensionDemo.runtimeconfig.json
+C:\Users\91995\Desktop\net\AnonymousExtensionDemo\bin\Debug\net10.0\AnonymousExtensionDemo.dll
+C:\Users\91995\Desktop\net\AnonymousExtensionDemo\bin\Debug\net10.0\AnonymousExtensionDemo.pdb
+C:\Users\91995\Desktop\net\AnonymousExtensionDemo\obj\Debug\net10.0\AnonymousExtensionDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91995\Desktop\net\AnonymousExtensionDemo\obj\Debug\net10.0\AnonymousExtensionDemo.AssemblyInfoInputs.cache
+C:\Users\91995\Desktop\net\AnonymousExtensionDemo\obj\Debug\net10.0\AnonymousExtensionDemo.AssemblyInfo.cs
+C:\Users\91995\Desktop\net\AnonymousExtensionDemo\obj\Debug\net10.0\AnonymousExtensionDemo.csproj.CoreCompileInputs.cache
+C:\Users\91995\Desktop\net\AnonymousExtensionDemo\obj\Debug\net10.0\AnonymousExtensionDemo.sourcelink.json
+C:\Users\91995\Desktop\net\AnonymousExtensionDemo\obj\Debug\net10.0\AnonymousExtensionDemo.dll
+C:\Users\91995\Desktop\net\AnonymousExtensionDemo\obj\Debug\net10.0\refint\AnonymousExtensionDemo.dll
+C:\Users\91995\Desktop\net\AnonymousExtensionDemo\obj\Debug\net10.0\AnonymousExtensionDemo.pdb
+C:\Users\91995\Desktop\net\AnonymousExtensionDemo\obj\Debug\net10.0\AnonymousExtensionDemo.genruntimeconfig.cache
+C:\Users\91995\Desktop\net\AnonymousExtensionDemo\obj\Debug\net10.0\ref\AnonymousExtensionDemo.dll
