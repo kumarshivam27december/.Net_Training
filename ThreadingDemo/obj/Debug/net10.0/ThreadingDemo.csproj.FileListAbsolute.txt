@@ -1,0 +1,15 @@
+C:\Users\91995\Desktop\net\ThreadingDemo\bin\Debug\net10.0\ThreadingDemo.exe
+C:\Users\91995\Desktop\net\ThreadingDemo\bin\Debug\net10.0\ThreadingDemo.deps.json
+C:\Users\91995\Desktop\net\ThreadingDemo\bin\Debug\net10.0\ThreadingDemo.runtimeconfig.json
+C:\Users\91995\Desktop\net\ThreadingDemo\bin\Debug\net10.0\ThreadingDemo.dll
+C:\Users\91995\Desktop\net\ThreadingDemo\bin\Debug\net10.0\ThreadingDemo.pdb
+C:\Users\91995\Desktop\net\ThreadingDemo\obj\Debug\net10.0\ThreadingDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91995\Desktop\net\ThreadingDemo\obj\Debug\net10.0\ThreadingDemo.AssemblyInfoInputs.cache
+C:\Users\91995\Desktop\net\ThreadingDemo\obj\Debug\net10.0\ThreadingDemo.AssemblyInfo.cs
+C:\Users\91995\Desktop\net\ThreadingDemo\obj\Debug\net10.0\ThreadingDemo.csproj.CoreCompileInputs.cache
+C:\Users\91995\Desktop\net\ThreadingDemo\obj\Debug\net10.0\ThreadingDemo.sourcelink.json
+C:\Users\91995\Desktop\net\ThreadingDemo\obj\Debug\net10.0\ThreadingDemo.dll
+C:\Users\91995\Desktop\net\ThreadingDemo\obj\Debug\net10.0\refint\ThreadingDemo.dll
+C:\Users\91995\Desktop\net\ThreadingDemo\obj\Debug\net10.0\ThreadingDemo.pdb
+C:\Users\91995\Desktop\net\ThreadingDemo\obj\Debug\net10.0\ThreadingDemo.genruntimeconfig.cache
+C:\Users\91995\Desktop\net\ThreadingDemo\obj\Debug\net10.0\ref\ThreadingDemo.dll

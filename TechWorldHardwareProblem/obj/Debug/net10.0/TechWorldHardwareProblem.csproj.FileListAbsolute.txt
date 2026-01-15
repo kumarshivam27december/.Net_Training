@@ -1,0 +1,15 @@
+C:\Users\91995\Desktop\net\TechWorldHardwareProblem\bin\Debug\net10.0\TechWorldHardwareProblem.exe
+C:\Users\91995\Desktop\net\TechWorldHardwareProblem\bin\Debug\net10.0\TechWorldHardwareProblem.deps.json
+C:\Users\91995\Desktop\net\TechWorldHardwareProblem\bin\Debug\net10.0\TechWorldHardwareProblem.runtimeconfig.json
+C:\Users\91995\Desktop\net\TechWorldHardwareProblem\bin\Debug\net10.0\TechWorldHardwareProblem.dll
+C:\Users\91995\Desktop\net\TechWorldHardwareProblem\bin\Debug\net10.0\TechWorldHardwareProblem.pdb
+C:\Users\91995\Desktop\net\TechWorldHardwareProblem\obj\Debug\net10.0\TechWorldHardwareProblem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91995\Desktop\net\TechWorldHardwareProblem\obj\Debug\net10.0\TechWorldHardwareProblem.AssemblyInfoInputs.cache
+C:\Users\91995\Desktop\net\TechWorldHardwareProblem\obj\Debug\net10.0\TechWorldHardwareProblem.AssemblyInfo.cs
+C:\Users\91995\Desktop\net\TechWorldHardwareProblem\obj\Debug\net10.0\TechWorldHardwareProblem.csproj.CoreCompileInputs.cache
+C:\Users\91995\Desktop\net\TechWorldHardwareProblem\obj\Debug\net10.0\TechWorldHardwareProblem.sourcelink.json
+C:\Users\91995\Desktop\net\TechWorldHardwareProblem\obj\Debug\net10.0\TechWorldHardwareProblem.dll
+C:\Users\91995\Desktop\net\TechWorldHardwareProblem\obj\Debug\net10.0\refint\TechWorldHardwareProblem.dll
+C:\Users\91995\Desktop\net\TechWorldHardwareProblem\obj\Debug\net10.0\TechWorldHardwareProblem.pdb
+C:\Users\91995\Desktop\net\TechWorldHardwareProblem\obj\Debug\net10.0\TechWorldHardwareProblem.genruntimeconfig.cache
+C:\Users\91995\Desktop\net\TechWorldHardwareProblem\obj\Debug\net10.0\ref\TechWorldHardwareProblem.dll

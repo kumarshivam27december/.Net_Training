@@ -1,0 +1,15 @@
+C:\Users\91995\Desktop\net\LinqDemo\bin\Debug\net10.0\LinqDemo.exe
+C:\Users\91995\Desktop\net\LinqDemo\bin\Debug\net10.0\LinqDemo.deps.json
+C:\Users\91995\Desktop\net\LinqDemo\bin\Debug\net10.0\LinqDemo.runtimeconfig.json
+C:\Users\91995\Desktop\net\LinqDemo\bin\Debug\net10.0\LinqDemo.dll
+C:\Users\91995\Desktop\net\LinqDemo\bin\Debug\net10.0\LinqDemo.pdb
+C:\Users\91995\Desktop\net\LinqDemo\obj\Debug\net10.0\LinqDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91995\Desktop\net\LinqDemo\obj\Debug\net10.0\LinqDemo.AssemblyInfoInputs.cache
+C:\Users\91995\Desktop\net\LinqDemo\obj\Debug\net10.0\LinqDemo.AssemblyInfo.cs
+C:\Users\91995\Desktop\net\LinqDemo\obj\Debug\net10.0\LinqDemo.csproj.CoreCompileInputs.cache
+C:\Users\91995\Desktop\net\LinqDemo\obj\Debug\net10.0\LinqDemo.sourcelink.json
+C:\Users\91995\Desktop\net\LinqDemo\obj\Debug\net10.0\LinqDemo.dll
+C:\Users\91995\Desktop\net\LinqDemo\obj\Debug\net10.0\refint\LinqDemo.dll
+C:\Users\91995\Desktop\net\LinqDemo\obj\Debug\net10.0\LinqDemo.pdb
+C:\Users\91995\Desktop\net\LinqDemo\obj\Debug\net10.0\LinqDemo.genruntimeconfig.cache
+C:\Users\91995\Desktop\net\LinqDemo\obj\Debug\net10.0\ref\LinqDemo.dll

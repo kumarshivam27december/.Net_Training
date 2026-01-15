@@ -1,0 +1,15 @@
+C:\Users\91995\Desktop\net\Task14JanProblems\obj\Debug\net10.0\Task14JanProblems.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91995\Desktop\net\Task14JanProblems\obj\Debug\net10.0\Task14JanProblems.AssemblyInfoInputs.cache
+C:\Users\91995\Desktop\net\Task14JanProblems\obj\Debug\net10.0\Task14JanProblems.AssemblyInfo.cs
+C:\Users\91995\Desktop\net\Task14JanProblems\obj\Debug\net10.0\Task14JanProblems.csproj.CoreCompileInputs.cache
+C:\Users\91995\Desktop\net\Task14JanProblems\obj\Debug\net10.0\Task14JanProblems.sourcelink.json
+C:\Users\91995\Desktop\net\Task14JanProblems\bin\Debug\net10.0\Task14JanProblems.exe
+C:\Users\91995\Desktop\net\Task14JanProblems\bin\Debug\net10.0\Task14JanProblems.deps.json
+C:\Users\91995\Desktop\net\Task14JanProblems\bin\Debug\net10.0\Task14JanProblems.runtimeconfig.json
+C:\Users\91995\Desktop\net\Task14JanProblems\bin\Debug\net10.0\Task14JanProblems.dll
+C:\Users\91995\Desktop\net\Task14JanProblems\bin\Debug\net10.0\Task14JanProblems.pdb
+C:\Users\91995\Desktop\net\Task14JanProblems\obj\Debug\net10.0\Task14JanProblems.dll
+C:\Users\91995\Desktop\net\Task14JanProblems\obj\Debug\net10.0\refint\Task14JanProblems.dll
+C:\Users\91995\Desktop\net\Task14JanProblems\obj\Debug\net10.0\Task14JanProblems.pdb
+C:\Users\91995\Desktop\net\Task14JanProblems\obj\Debug\net10.0\Task14JanProblems.genruntimeconfig.cache
+C:\Users\91995\Desktop\net\Task14JanProblems\obj\Debug\net10.0\ref\Task14JanProblems.dll
